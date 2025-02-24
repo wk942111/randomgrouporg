@@ -1,0 +1,348 @@
+{
+  "metadata": {
+    "title": "Generator Losowych Grup | Darmowe Narzędzie do Tworzenia Zespołów Online",
+    "description": "Twórz zrównoważone grupy natychmiast za pomocą Generatora Losowych Grup. Idealny do klas, zespołów i wydarzeń. Prosty, szybki i nie wymaga rejestracji.",
+    "keywords": "generator losowych grup, generator zespołów, tworzenie grup, grupy klasowe, organizator zespołów, losowy generator zespołów",
+    "ogTitle": "Generator Losowych Grup | Darmowe Narzędzie do Tworzenia Zespołów Online",
+    "ogDescription": "Twórz zrównoważone grupy natychmiast za pomocą Generatora Losowych Grup. Idealny do klas, zespołów i wydarzeń.",
+    "siteName": "Generator Losowych Grup",
+    "ogImageAlt": "Interfejs Generatora Losowych Grup",
+    "twitterTitle": "Generator Losowych Grup | Darmowe Narzędzie do Tworzenia Zespołów Online",
+    "twitterDescription": "Twórz zrównoważone grupy natychmiast za pomocą Generatora Losowych Grup. Idealny do klas, zespołów i wydarzeń.",
+    "authorName": "Zespół Generatora Losowych Grup",
+    "category": "Edukacja i Technologia",
+    "home": {
+      "title": "Generator Losowych Grup - Darmowe Narzędzie do Grupowania Online",
+      "description": "Darmowy generator losowych grup online dla zespołów, uczniów i projektów. Twórz zrównoważone grupy natychmiast za pomocą naszego łatwego w użyciu narzędzia.",
+      "keywords": "generator losowych grup, generator zespołów, kreator grup, generator losowych zespołów, organizator grup klasowych, generator zespołów projektowych",
+      "ogTitle": "Generator Losowych Grup - Darmowe Narzędzie do Grupowania Online",
+      "ogDescription": "Darmowy generator losowych grup online dla zespołów, uczniów i projektów.",
+      "ogImageAlt": "Interfejs Narzędzia Generator Losowych Grup"
+    },
+    "about": {
+      "title": "O Nas - Generator Losowych Grup",
+      "description": "Dowiedz się więcej o Generatorze Losowych Grup, dlaczego go stworzyliśmy i jak go używać",
+      "keywords": "o nas, generator losowych grup, historia, zespół, misja",
+      "ogTitle": "O Nas - Generator Losowych Grup",
+      "ogDescription": "Dowiedz się więcej o Generatorze Losowych Grup",
+      "ogImageAlt": "Zespół Generatora Losowych Grup"
+    },
+    "legal": {
+      "title": "Informacje Prawne - Generator Losowych Grup",
+      "description": "Ważne informacje prawne dotyczące korzystania z Generatora Losowych Grup",
+      "keywords": "warunki prawne, polityka prywatności, warunki użytkowania",
+      "ogTitle": "Informacje Prawne - Generator Losowych Grup",
+      "ogDescription": "Ważne informacje prawne dotyczące naszych usług",
+      "ogImageAlt": "Generator Losowych Grup Informacje Prawne"
+    },
+    "terms": {
+      "title": "Warunki Użytkowania - Generator Losowych Grup",
+      "description": "Warunki i postanowienia dotyczące korzystania z Generatora Losowych Grup",
+      "keywords": "warunki użytkowania, warunki, umowa, zasady, postanowienia",
+      "ogTitle": "Warunki Użytkowania - Generator Losowych Grup",
+      "ogDescription": "Warunki i postanowienia dotyczące korzystania z naszych usług",
+      "ogImageAlt": "Generator Losowych Grup Warunki Użytkowania"
+    },
+    "privacy": {
+      "title": "Polityka Prywatności - Generator Losowych Grup",
+      "description": "Jak chronimy i wykorzystujemy Twoje dane",
+      "keywords": "polityka prywatności, prywatność, bezpieczeństwo, RODO",
+      "ogTitle": "Polityka Prywatności - Generator Losowych Grup",
+      "ogDescription": "Dowiedz się, jak chronimy Twoje dane",
+      "ogImageAlt": "Generator Losowych Grup Polityka Prywatności"
+    }
+  },
+  "common": {
+    "nav": {
+      "home": "Strona Główna",
+      "about": "O Nas",
+      "legal": "Prawne",
+      "terms": "Warunki",
+      "privacy": "Prywatność"
+    },
+    "languageSwitcher": {
+      "label": "Wybierz język"
+    },
+    "alert": {
+      "close": "Zamknij",
+      "success": "Sukces",
+      "error": "Błąd",
+      "warning": "Ostrzeżenie",
+      "info": "Informacja"
+    },
+    "siteName": "Generator Losowych Grup",
+    "authorName": "Zespół Generatora Losowych Grup",
+    "category": "Edukacja i Technologia",
+    "twitterCreator": "@randomgroup"
+  },
+  "groupGenerator": {
+    "input": {
+      "placeholder": "Wpisz listę tutaj (jedno imię na linię)",
+      "generateButton": "Generuj Grupy",
+      "uploadButton": "Wgraj Plik",
+      "clearButton": "Wyczyść",
+      "regenerateButton": "Generuj Ponownie",
+      "copyButton": "Kopiuj do Schowka",
+      "lineCount": "{count} linii"
+    },
+    "settings": {
+      "method": {
+        "label": "Metoda grupowania",
+        "byCount": "Według liczby grup",
+        "bySize": "Według rozmiaru grupy"
+      },
+      "groupCount": {
+        "label": "Liczba grup",
+        "description": "Wybierz żądaną liczbę grup"
+      },
+      "groupSize": {
+        "label": "Rozmiar grupy",
+        "description": "Wybierz liczbę osób na grupę"
+      }
+    },
+    "results": {
+      "title": "Wyniki",
+      "empty": "Wyniki pojawią się tutaj",
+      "group": "Grupa {number}",
+      "members": "{count} członków",
+      "exportTxt": "Eksportuj TXT",
+      "exportCsv": "Eksportuj CSV"
+    },
+    "errors": {
+      "fileRead": "Błąd odczytu pliku. Proszę spróbować ponownie.",
+      "emptyInput": "Proszę wprowadzić listę imion.",
+      "tooManyGroups": "Liczba grup nie może przekraczać całkowitej liczby członków.",
+      "groupSizeTooLarge": "Rozmiar grupy nie może przekraczać całkowitej liczby członków.",
+      "invalidInput": "Nieprawidłowe dane wejściowe. Proszę sprawdzić i spróbować ponownie.",
+      "duplicateItems": "Znaleziono duplikaty:",
+      "invalidFileType": "Można przesyłać tylko pliki TXT."
+    }
+  },
+  "home": {
+    "title": "Generator Losowych Grup",
+    "description": "Twórz losowe grupy w kilka sekund",
+    "subtitle": "Najbardziej zaufany generator losowych grup dla nauczycieli i liderów zespołów. Użyj naszego darmowego narzędzia online do natychmiastowego tworzenia zrównoważonych zespołów. Idealny do zajęć klasowych, warsztatów i działań integracyjnych - bez konieczności rejestracji.",
+    "instructions": {
+      "title": "Jak korzystać z Generatora Losowych Grup",
+      "subtitle": "Szybko, prosto i skutecznie",
+      "step1": {
+        "title": "Wprowadź listę",
+        "description": "Po prostu wklej swoją listę lub wgraj plik. Generator Losowych Grup obsługuje formaty TXT i CSV, idealne dla dużych zespołów lub list klasowych."
+      },
+      "step2": {
+        "title": "Ustaw parametry grup",
+        "description": "Wybierz żądany rozmiar grupy lub określ liczbę grup. Nasz inteligentny algorytm zapewnia zrównoważony losowy podział za każdym razem."
+      },
+      "step3": {
+        "title": "Generuj i udostępniaj",
+        "description": "Twórz losowe grupy natychmiast i eksportuj w preferowanym formacie. Łatwo udostępniaj wyniki swojemu zespołowi lub uczniom. Niezadowolony z wyniku? Wygeneruj nowe grupy jednym kliknięciem."
+      }
+    },
+    "features": {
+      "title": "Funkcje Generatora Losowych Grup",
+      "subtitle": "Zaufany przez tysiące na całym świecie",
+      "education": {
+        "title": "Edukacja i Szkolenia",
+        "description": "Twórz zrównoważone grupy uczniów i zespoły projektowe z łatwością. Generator Losowych Grup to pierwszy wybór edukatorów do tworzenia środowiska nauki współpracy."
+      },
+      "professional": {
+        "title": "Zespoły Profesjonalne",
+        "description": "Uprość formowanie zespołów na warsztaty, kursy szkoleniowe i zadania projektowe. Twórz losowe grupy, które promują różnorodne perspektywy i równy udział."
+      },
+      "events": {
+        "title": "Wydarzenia i Projekty",
+        "description": "Idealny do organizowania działań integracyjnych, wydarzeń sportowych i spotkań towarzyskich. Generator Losowych Grup zapewnia sprawiedliwy i bezstronny podział na zespoły."
+      },
+      "algorithm": {
+        "title": "Sprawiedliwy Algorytm Podziału",
+        "description": "Nasz zaawansowany Generator Losowych Grup wykorzystuje złożone algorytmy, aby zapewnić prawdziwie losowy i zrównoważony podział grup w każdym przypadku."
+      }
+    },
+    "faq": {
+      "title": "Często Zadawane Pytania",
+      "subtitle": "Popularne pytania o Generator Losowych Grup",
+      "how": {
+        "title": "Jak korzystać z tego narzędzia?",
+        "answer": "Po prostu wpisz lub wklej swoją listę, wybierz żądaną liczbę grup lub osób na grupę, i kliknij przycisk generowania. To takie proste!"
+      },
+      "max": {
+        "title": "Ile osób obsługuje?",
+        "answer": "Nasze narzędzie może obsłużyć listy do 1000 osób, odpowiednie dla zespołów i klas każdej wielkości."
+      },
+      "save": {
+        "title": "Czy mogę zapisać wyniki?",
+        "answer": "Tak, możesz eksportować wyniki w różnych formatach, w tym PDF, Excel i pliki tekstowe."
+      },
+      "data": {
+        "title": "Czy moje dane są bezpieczne?",
+        "answer": "Cenimy Twoją prywatność. Całe przetwarzanie odbywa się w Twojej przeglądarce i nie przechowujemy żadnych danych osobowych."
+      },
+      "balance": {
+        "title": "Jak zapewniana jest równowaga grup?",
+        "answer": "Używamy zaawansowanych algorytmów, aby zapewnić, że rozmiary grup są jak najbardziej równe, zachowując jednocześnie losowość."
+      },
+      "regenerate": {
+        "title": "Czy mogę wygenerować grupy ponownie?",
+        "answer": "Oczywiście! Możesz kliknąć przycisk generowania w dowolnym momencie, aby utworzyć nowe losowe grupy."
+      }
+    },
+    "benefits": {
+      "title": "Korzyści z Generatora Losowych Grup",
+      "list": "Oszczędza czas i energię|Zapewnia sprawiedliwy podział|Poprawia efektywność pracy zespołowej|Elastyczne opcje modyfikacji grup|Łatwy dostęp i użytkowanie|Wsparcie techniczne w razie potrzeby"
+    },
+    "testimonials": {
+      "title": "Opinie Użytkowników",
+      "subtitle": "Co mówią nasi użytkownicy o Generatorze Losowych Grup",
+      "items": {
+        "item1": {
+          "text": "Świetne narzędzie, zaoszczędziłem mnóstwo czasu na organizacji grup klasowych.",
+          "author": "Jan - Nauczyciel"
+        },
+        "item2": {
+          "text": "Łatwe w użyciu i bardzo skuteczne w organizacji warsztatów.",
+          "author": "Ewa - Trener"
+        },
+        "item3": {
+          "text": "Najlepsze darmowe narzędzie do tworzenia zrównoważonych losowych grup.",
+          "author": "Piotr - Organizator Wydarzeń"
+        }
+      }
+    }
+  },
+  "about": {
+    "title": "O Nas",
+    "mission": {
+      "title": "Nasza Misja",
+      "description": "Misją Generatora Losowych Grup jest zapewnienie prostego, skutecznego i niezawodnego narzędzia dla nauczycieli, liderów zespołów i organizatorów. Naszym celem jest uproszczenie procesu tworzenia grup przy jednoczesnym zapewnieniu sprawiedliwego i losowego podziału."
+    },
+    "features": {
+      "title": "Główne Cechy",
+      "list": {
+        "grouping": "Elastyczne opcje grupowania dla różnych potrzeb",
+        "interface": "Przyjazny interfejs użytkownika z prostą nawigacją",
+        "algorithm": "Sprawiedliwy algorytm podziału dla zrównoważonych grup",
+        "export": "Opcje eksportu w różnych formatach",
+        "security": "Bezpieczne i prywatne - brak przechowywania danych"
+      }
+    },
+    "contact": {
+      "title": "Kontakt",
+      "description": "Twoja opinia jest dla nas ważna. Jeśli masz pytania lub sugestie, skontaktuj się z nami pod adresem info@randomgroupgenerator.com."
+    }
+  },
+  "legal": {
+    "title": "Informacje prawne",
+    "content": "Ważne informacje prawne dotyczące naszych usług.",
+    "privacy": {
+      "title": "Polityka Prywatności",
+      "description": "Cenimy Twoją prywatność i jesteśmy zobowiązani do jej ochrony. Zapoznaj się z naszą polityką prywatności, aby dowiedzieć się więcej.",
+      "readMore": "Przeczytaj pełną politykę prywatności"
+    },
+    "terms": {
+      "title": "Warunki Użytkowania",
+      "description": "Korzystając z naszej usługi, akceptujesz nasze warunki. Prosimy o zapoznanie się ze szczegółowymi warunkami użytkowania.",
+      "readMore": "Przeczytaj pełne warunki użytkowania"
+    }
+  },
+  "terms": {
+    "title": "Warunki Użytkowania",
+    "lastUpdated": "Ostatnia aktualizacja: {date}",
+    "sections": {
+      "agreement": {
+        "title": "Akceptacja Warunków",
+        "content": "Korzystając z Generatora Losowych Grup (randomgroup.org), akceptujesz niniejsze warunki użytkowania. Jeśli nie zgadzasz się z którymkolwiek z tych warunków, prosimy nie korzystać z naszej usługi."
+      },
+      "license": {
+        "title": "Licencja Użytkowania",
+        "content": "Generator Losowych Grup udziela osobistej, niewyłącznej, nieprzenoszalnej, ograniczonej licencji na korzystanie z narzędzia do generowania grup online do celów osobistych lub zawodowych. Licencja nie obejmuje:",
+        "restrictions": "Modyfikacji lub kopiowania naszego oprogramowania|Komercyjnej redystrybucji usługi|Próby dekompilacji lub inżynierii wstecznej oprogramowania na stronie|Usuwania informacji o prawach autorskich lub innych prawach własności"
+      },
+      "disclaimer": {
+        "title": "Wyłączenie Odpowiedzialności",
+        "content": "Usługa jest dostarczana 'w stanie, w jakim jest'. Generator Losowych Grup nie udziela żadnych gwarancji, wyraźnych ani dorozumianych, i niniejszym wyklucza wszelkie inne gwarancje."
+      },
+      "limitations": {
+        "title": "Ograniczenia",
+        "content": "Generator Losowych Grup nie ponosi odpowiedzialności za jakiekolwiek szkody wynikające z korzystania lub niemożności korzystania z usługi."
+      },
+      "data": {
+        "title": "Twoje Dane",
+        "content": "Zachowujesz wszystkie prawa do danych, które wprowadzasz do usługi. Nie przechowujemy, nie przetwarzamy ani nie przekazujemy Twoich danych na żadne serwery."
+      },
+      "modifications": {
+        "title": "Modyfikacje",
+        "content": "Generator Losowych Grup zastrzega sobie prawo do modyfikacji lub zastąpienia niniejszych warunków użytkowania w dowolnym momencie."
+      },
+      "contact": {
+        "title": "Kontakt",
+        "content": "W przypadku pytań dotyczących niniejszych warunków użytkowania, prosimy o kontakt pod adresem support@randomgroup.org."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Polityka Prywatności",
+    "lastUpdated": "Ostatnia aktualizacja: {date}",
+    "sections": {
+      "intro": {
+        "title": "Wprowadzenie",
+        "content": "W Generatorze Losowych Grup cenimy Twoją prywatność i jesteśmy zobowiązani do jej ochrony. Ta polityka prywatności wyjaśnia, jak obsługujemy informacje podczas korzystania z naszej witryny i usług."
+      },
+      "noCollect": {
+        "title": "Nie Zbieramy Danych",
+        "content": "Wierzymy w pełną prywatność. Nie zbieramy ani nie przechowujemy żadnych danych osobowych.",
+        "list": "Nie przechowujemy nazw ani list|Nie śledzimy użytkowników|Nie zbieramy danych osobowych|Wszystko przetwarzane lokalnie w Twojej przeglądarce"
+      },
+      "howItWorks": {
+        "title": "Jak To Działa",
+        "content": "Wszystkie operacje generowania grup odbywają się lokalnie w Twojej przeglądarce. Żadne dane nie są przesyłane na nasze serwery."
+      },
+      "technical": {
+        "title": "Szczegóły Techniczne",
+        "content": "Używamy nowoczesnych technologii, aby zapewnić bezpieczeństwo i prywatność:",
+        "list": "Tylko przetwarzanie po stronie klienta|Brak przechowywania danych|Brak śledzących plików cookie|Szyfrowanie SSL/TLS dla komunikacji"
+      },
+      "dataCollection": {
+        "title": "Zbieranie Danych",
+        "content": "Nie zbieramy żadnych danych osobowych od naszych użytkowników. Wszystkie dane wprowadzane są przetwarzane lokalnie w Twojej przeglądarce.",
+        "details": "Nie przechowujemy wprowadzonych list|Nie śledzimy wzorców użytkowania|Nie zbieramy danych identyfikacyjnych|Wszystko przetwarzane lokalnie"
+      },
+      "dataUse": {
+        "title": "Wykorzystanie Danych",
+        "content": "Nie przechowujemy, nie udostępniamy ani nie sprzedajemy Twoich danych. Wszystkie wprowadzone informacje są przetwarzane tymczasowo tylko w celu generowania grup.",
+        "purposes": "Generowanie losowych grup|Poprawa doświadczenia użytkownika|Zapewnienie wydajności witryny|Zapewnienie wsparcia technicznego na żądanie"
+      },
+      "cookies": {
+        "title": "Pliki Cookie",
+        "content": "Używamy tylko niezbędnych plików cookie do poprawy doświadczenia użytkownika. Nie używamy plików cookie do śledzenia ani reklam.",
+        "types": "Pliki cookie sesji: do przechowywania preferencji podczas wizyty|Pliki cookie wydajności: do poprawy wydajności witryny|Pliki cookie funkcjonalne: do zapamiętywania preferencji, takich jak wybrany język"
+      },
+      "security": {
+        "title": "Bezpieczeństwo",
+        "content": "Poważnie traktujemy bezpieczeństwo Twoich danych. Wszystkie operacje odbywają się lokalnie w Twojej przeglądarce, zapewniając, że dane nie są udostępniane żadnym zewnętrznym serwerom.",
+        "measures": "Lokalne przetwarzanie danych|Brak przechowywania danych osobowych|Bezpieczne połączenie HTTPS|Szyfrowanie danych podczas przesyłania"
+      },
+      "userRights": {
+        "title": "Prawa Użytkownika",
+        "content": "Ponieważ nie zbieramy żadnych danych osobowych, Twoje dane są naturalnie chronione. Niemniej jednak masz prawo do:",
+        "rights": "Wiedzy o tym, jak wykorzystujemy dane|Dostępu do polityki prywatności w dowolnym momencie|Kontaktu w sprawie obaw dotyczących prywatności|Odrzucenia nieistotnych plików cookie"
+      },
+      "changes": {
+        "title": "Zmiany w Polityce Prywatności",
+        "content": "Możemy okresowo aktualizować tę politykę prywatności. O wszelkich zmianach poinformujemy poprzez opublikowanie nowej polityki na tej stronie."
+      },
+      "contact": {
+        "title": "Kontakt",
+        "content": "W przypadku pytań dotyczących naszej polityki prywatności, prosimy o kontakt pod adresem privacy@randomgroup.org.",
+        "methods": {
+          "item1": "E-mail: privacy@randomgroup.org",
+          "item2": "Formularz kontaktowy na naszej stronie",
+          "item3": "Adres korespondencyjny: [Adres biura]"
+        }
+      },
+      "updates": {
+        "title": "Aktualizacje Polityki Prywatności",
+        "content": "Możemy okresowo aktualizować naszą politykę prywatności. O zmianach poinformujemy poprzez opublikowanie nowej polityki na tej stronie."
+      }
+    }
+  }
+} 

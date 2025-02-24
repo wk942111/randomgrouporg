@@ -1,0 +1,287 @@
+{
+  "metadata": {
+    "title": "Zufällige Gruppengenerator | Kostenloses Online-Tool für Teambildung",
+    "description": "Erstellen Sie sofort ausgewogene Gruppen mit unserem kostenlosen Zufälligen Gruppengenerator. Perfekt für Klassenzimmer, Teams und Veranstaltungen. Einfach, schnell und keine Registrierung erforderlich.",
+    "keywords": "zufälliger gruppengenerator, teamgenerator, gruppenersteller, klassengruppen, teamorganisator, zufälliger teamersteller",
+    "ogTitle": "Zufälliger Gruppengenerator | Kostenloses Online-Tool für Teambildung",
+    "ogDescription": "Erstellen Sie sofort ausgewogene Gruppen mit unserem kostenlosen Zufälligen Gruppengenerator. Perfekt für Klassenzimmer, Teams und Veranstaltungen.",
+    "siteName": "Zufälliger Gruppengenerator",
+    "ogImageAlt": "Zufälliger Gruppengenerator Interface",
+    "twitterTitle": "Zufälliger Gruppengenerator | Kostenloses Online-Tool für Teambildung",
+    "twitterDescription": "Erstellen Sie sofort ausgewogene Gruppen mit unserem kostenlosen Zufälligen Gruppengenerator. Perfekt für Klassenzimmer, Teams und Veranstaltungen.",
+    "authorName": "Zufälliger Gruppengenerator Team",
+    "category": "Bildung & Technologie",
+    "home": {
+      "title": "Zufälliger Gruppengenerator - Kostenloses Online-Tool für Teambildung",
+      "description": "Kostenloser Online-Zufallsgruppengenerator für Teams, Schüler und Projekte. Erstellen Sie sofort ausgewogene Gruppen mit unserem benutzerfreundlichen Tool.",
+      "keywords": "zufälliger gruppengenerator, teamgenerator, gruppenersteller, zufälliger teamersteller, klassengruppen-organisator, projekt-teamgenerator",
+      "ogTitle": "Zufälliger Gruppengenerator - Kostenloses Online-Tool für Teambildung",
+      "ogDescription": "Kostenloser Online-Zufallsgruppengenerator für Teams, Schüler und Projekte.",
+      "ogImageAlt": "Zufälliger Gruppengenerator Tool Interface"
+    },
+    "about": {
+      "title": "Über Uns - Zufälliger Gruppengenerator",
+      "description": "Erfahren Sie mehr über den Zufälligen Gruppengenerator, das kostenlose Online-Tool zum sofortigen Erstellen ausgewogener Gruppen.",
+      "keywords": "über uns, zufälliger gruppengenerator, teambildung, mission vision, kontakt",
+      "ogTitle": "Über den Zufälligen Gruppengenerator",
+      "ogDescription": "Erfahren Sie, wie wir Ihnen helfen, perfekte Gruppen zu erstellen.",
+      "ogImageAlt": "Zufälliger Gruppengenerator Team"
+    },
+    "legal": {
+      "title": "Rechtliche Informationen - Zufälliger Gruppengenerator",
+      "description": "Lesen Sie die rechtlichen Informationen des Zufälligen Gruppengenerators, einschließlich Nutzungsbedingungen und Datenschutzrichtlinie.",
+      "keywords": "rechtliche informationen, nutzungsbedingungen, datenschutzrichtlinie, benutzervereinbarung",
+      "ogTitle": "Rechtliche Informationen - Zufälliger Gruppengenerator",
+      "ogDescription": "Verstehen Sie Ihre Rechte und Pflichten bei der Nutzung des Zufälligen Gruppengenerators.",
+      "ogImageAlt": "Rechtliche Informationen des Zufälligen Gruppengenerators"
+    },
+    "terms": {
+      "title": "Nutzungsbedingungen - Zufälliger Gruppengenerator",
+      "description": "Lesen Sie die Nutzungsbedingungen des Zufälligen Gruppengenerators und verstehen Sie Ihre Rechte und Pflichten bei der Nutzung unseres Dienstes.",
+      "keywords": "nutzungsbedingungen, servicebedingungen, benutzervereinbarung, rechtliche bedingungen",
+      "ogTitle": "Nutzungsbedingungen - Zufälliger Gruppengenerator",
+      "ogDescription": "Verstehen Sie die Nutzungsbedingungen des Zufälligen Gruppengenerator-Dienstes.",
+      "ogImageAlt": "Nutzungsbedingungen des Zufälligen Gruppengenerators"
+    },
+    "privacy": {
+      "title": "Datenschutzrichtlinie - Zufälliger Gruppengenerator",
+      "description": "Erfahren Sie, wie der Zufällige Gruppengenerator Ihre Privatsphäre und persönlichen Informationen schützt. Wir legen Wert auf die Sicherheit Ihrer Daten.",
+      "keywords": "datenschutzrichtlinie, datenschutz, persönliche informationen, sicherheitsrichtlinie",
+      "ogTitle": "Datenschutzrichtlinie - Zufälliger Gruppengenerator",
+      "ogDescription": "Erfahren Sie, wie wir Ihre Privatsphäre und persönlichen Informationen schützen.",
+      "ogImageAlt": "Datenschutzrichtlinie des Zufälligen Gruppengenerators"
+    },
+    "common": {
+      "siteName": "Zufälliger Gruppengenerator",
+      "authorName": "Zufälliger Gruppengenerator Team",
+      "category": "Technologie",
+      "twitterCreator": "@randomgroup"
+    }
+  },
+  "common": {
+    "nav": {
+      "home": "Startseite",
+      "about": "Über Uns",
+      "legal": "Rechtliches",
+      "terms": "Nutzungsbedingungen",
+      "privacy": "Datenschutz"
+    },
+    "languageSwitcher": {
+      "label": "Sprache auswählen"
+    },
+    "alert": {
+      "close": "Schließen"
+    }
+  },
+  "groupGenerator": {
+    "input": {
+      "placeholder": "Namen eingeben (einer pro Zeile) oder Datei hochladen",
+      "lineCount": "{count} Zeilen",
+      "uploadButton": "Datei hochladen",
+      "generateButton": "Gruppen generieren",
+      "clearButton": "Löschen"
+    },
+    "settings": {
+      "method": {
+        "label": "Gruppierungsmethode",
+        "byCount": "Nach Gruppenanzahl",
+        "bySize": "Nach Gruppengröße"
+      },
+      "groupCount": {
+        "label": "Anzahl der Gruppen",
+        "description": "Die Mitglieder werden gleichmäßig verteilt. Wenn die Gesamtzahl nicht gleichmäßig aufgeteilt werden kann, werden zusätzliche Mitglieder beginnend mit der ersten Gruppe zugewiesen."
+      },
+      "groupSize": {
+        "label": "Mitglieder pro Gruppe",
+        "description": "Die letzte Gruppe kann weniger Mitglieder haben als angegeben."
+      }
+    },
+    "results": {
+      "title": "Generierte Gruppen",
+      "exportTxt": "Als TXT exportieren",
+      "exportCsv": "Als CSV exportieren",
+      "group": "Gruppe {number}",
+      "members": "{count} Mitglieder",
+      "empty": "Namen eingeben (einer pro Zeile) oder Datei hochladen"
+    },
+    "errors": {
+      "fileRead": "Fehler beim Lesen der Datei. Bitte versuchen Sie es erneut.",
+      "emptyInput": "Bitte geben Sie eine Liste von Namen ein.",
+      "tooManyGroups": "Die Anzahl der Gruppen kann nicht die Gesamtzahl der Mitglieder überschreiten.",
+      "groupSizeTooLarge": "Die Gruppengröße kann nicht die Gesamtzahl der Mitglieder überschreiten.",
+      "invalidInput": "Ungültige Eingabe. Bitte überprüfen Sie und versuchen Sie es erneut.",
+      "duplicateItems": "Doppelte Einträge gefunden:",
+      "invalidFileType": "Es können nur TXT-Dateien hochgeladen werden."
+    }
+  },
+  "home": {
+    "title": "Zufälliger Gruppengenerator",
+    "description": "Erstellen Sie ausgewogene Gruppen in Sekunden",
+    "subtitle": "Der vertrauenswürdigste Zufällige Gruppengenerator für Pädagogen und Teamleiter. Unser kostenloses Online-Tool hilft Ihnen, sofort ausgewogene Teams zu erstellen. Perfekt für Klassenzimmer, Workshops und Teamaktivitäten - keine Registrierung erforderlich.",
+    "instructions": {
+      "title": "Wie man den Zufälligen Gruppengenerator verwendet",
+      "subtitle": "Einfache Schritte für perfekte Gruppen",
+      "step1": {
+        "title": "Namen eingeben",
+        "description": "Fügen Sie einfach Ihre Liste ein oder laden Sie eine TXT-Datei hoch. Unser Zufälliger Gruppengenerator verarbeitet effizient sowohl kleine Teams als auch große Klassenlisten."
+      },
+      "step2": {
+        "title": "Gruppeneinstellungen wählen",
+        "description": "Wählen Sie die Anzahl der Gruppen oder Mitglieder pro Gruppe. Unser intelligenter Zufälliger Gruppengenerator sorgt jedes Mal für eine ausgewogene Verteilung."
+      },
+      "step3": {
+        "title": "Generieren und Exportieren",
+        "description": "Erstellen Sie sofort Gruppen und exportieren Sie sie als TXT- oder CSV-Dateien. Nicht zufrieden? Verwenden Sie unseren Zufälligen Gruppengenerator, um mit einem Klick neue Gruppen zu erstellen."
+      }
+    },
+    "features": {
+      "title": "Warum Sie unseren Zufälligen Gruppengenerator wählen sollten",
+      "subtitle": "Vertraut von Pädagogen und Fachleuten weltweit",
+      "education": {
+        "title": "Bildung und Training",
+        "description": "Unser Zufälliger Gruppengenerator erstellt mühelos ausgewogene Lerngruppen. Perfekt für Klassenaktivitäten und kollaboratives Lernen."
+      },
+      "professional": {
+        "title": "Professionelle Teams",
+        "description": "Organisieren Sie Workshop-Teilnehmer und Projektteams fair. Der Zufällige Gruppengenerator sorgt für eine vielfältige Gruppenzusammensetzung."
+      },
+      "events": {
+        "title": "Events und Aktivitäten",
+        "description": "Ideal für Teambuilding-Übungen und soziale Events. Erstellen Sie ausgewogene Gruppen, die Teilnahme und Engagement fördern."
+      },
+      "algorithm": {
+        "title": "Intelligente Verteilung",
+        "description": "Der fortschrittliche Algorithmus sorgt für eine faire und zufällige Gruppenverteilung bei perfekter Balance."
+      }
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "subtitle": "Häufige Fragen zu unserem Zufälligen Gruppengenerator",
+      "how": {
+        "title": "Wie funktioniert es?",
+        "answer": "Geben Sie Ihre Liste ein, wählen Sie die Gruppengröße oder -anzahl, und lassen Sie unseren Zufälligen Gruppengenerator den Rest erledigen. So einfach ist das!"
+      },
+      "max": {
+        "title": "Wie viele Namen kann es verarbeiten?",
+        "answer": "Unser Zufälliger Gruppengenerator kann bis zu 1000 Namen verarbeiten, perfekt für jede Gruppen- oder Klassengröße."
+      },
+      "save": {
+        "title": "Kann ich die Ergebnisse speichern?",
+        "answer": "Ja, Sie können Ihre Gruppen im TXT- oder CSV-Format exportieren, um sie einfach zu teilen und nachzuschlagen."
+      },
+      "data": {
+        "title": "Sind meine Daten sicher?",
+        "answer": "Absolut! Die gesamte Verarbeitung erfolgt in Ihrem Browser - wir speichern keine Informationen."
+      },
+      "balance": {
+        "title": "Wie wird die Balance gehalten?",
+        "answer": "Der Zufällige Gruppengenerator verwendet intelligente Algorithmen, um sicherzustellen, dass die Gruppen so ausgewogen wie möglich sind, während die Zufälligkeit erhalten bleibt."
+      },
+      "regenerate": {
+        "title": "Kann ich die Gruppen neu generieren?",
+        "answer": "Ja! Klicken Sie jederzeit auf Neu generieren, um neue zufällige Gruppen mit denselben Einstellungen zu erhalten."
+      }
+    }
+  },
+  "about": {
+    "title": "Über Uns",
+    "mission": {
+      "title": "Unsere Mission",
+      "description": "Der Zufällige Gruppengenerator ist ein benutzerfreundliches Tool, das entwickelt wurde, um Pädagogen, Teamleiter und Veranstaltungsorganisatoren bei der effizienten Erstellung ausgewogener Gruppen zu unterstützen. Unsere Mission ist es, eine intuitive, effektive und faire Lösung für alle Ihre Teambildungsbedürfnisse bereitzustellen."
+    },
+    "features": {
+      "title": "Hauptmerkmale",
+      "list": {
+        "grouping": "Flexible Gruppierungsoptionen - nach Gruppenanzahl oder Gruppengröße",
+        "interface": "Intuitive Benutzeroberfläche für einfache Bedienung",
+        "algorithm": "Fairer und zufälliger Verteilungsalgorithmus",
+        "export": "Exportfunktionalität für Gruppenergebnisse",
+        "security": "Sicher und privat - keine Datenspeicherung"
+      }
+    },
+    "contact": {
+      "title": "Kontaktieren Sie uns",
+      "description": "Wir schätzen Ihr Feedback und sind bestrebt, unseren Service zu verbessern. Wenn Sie Fragen, Vorschläge oder Hilfe benötigen, zögern Sie nicht, uns zu kontaktieren."
+    }
+  },
+  "legal": {
+    "title": "Rechtliche Informationen",
+    "privacy": {
+      "title": "Datenschutzrichtlinie",
+      "description": "Wir schätzen Ihre Privatsphäre und sind bestrebt, Ihre persönlichen Informationen zu schützen. Bitte lesen Sie unsere Datenschutzrichtlinie, um zu verstehen, wie wir Ihre Daten sammeln, verwenden und schützen.",
+      "readMore": "Vollständige Datenschutzrichtlinie lesen"
+    },
+    "terms": {
+      "title": "Nutzungsbedingungen",
+      "description": "Durch die Nutzung unseres Dienstes stimmen Sie unseren Nutzungsbedingungen zu. Bitte lesen Sie diese sorgfältig durch, um Ihre Rechte und Pflichten zu verstehen.",
+      "readMore": "Vollständige Nutzungsbedingungen lesen"
+    }
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "lastUpdated": "Zuletzt aktualisiert: {date}",
+    "sections": {
+      "agreement": {
+        "title": "Zustimmung zu den Bedingungen",
+        "content": "Durch den Zugriff auf und die Nutzung des Zufälligen Gruppengenerators (randomgroup.org) stimmen Sie zu, an diese Nutzungsbedingungen gebunden zu sein. Wenn Sie mit einem Teil dieser Bedingungen nicht einverstanden sind, können Sie unseren Dienst nicht nutzen."
+      },
+      "license": {
+        "title": "Nutzungslizenz",
+        "content": "Der Zufällige Gruppengenerator gewährt Ihnen eine persönliche, nicht-exklusive, nicht übertragbare und beschränkte Lizenz zur Nutzung unseres Online-Gruppengenerierungstools für Ihre persönlichen oder beruflichen Bedürfnisse. Diese Lizenz umfasst nicht:",
+        "restrictions": "Modifizieren oder Kopieren unserer Software|Nutzung des Dienstes für kommerzielle Weiterverbreitung|Versuch der Dekompilierung oder des Reverse Engineering von Software auf der Website|Entfernen von Copyright-Hinweisen oder anderen Eigentumsvermerken"
+      },
+      "disclaimer": {
+        "title": "Haftungsausschluss",
+        "content": "Der Dienst wird 'wie er ist' bereitgestellt. Der Zufällige Gruppengenerator gibt keine Garantien jeglicher Art, weder ausdrücklich noch stillschweigend, und lehnt hiermit alle anderen Garantien ab, einschließlich, aber nicht beschränkt auf stillschweigende Garantien oder Bedingungen der Marktgängigkeit, Eignung für einen bestimmten Zweck oder Nichtverletzung von geistigem Eigentum oder anderen Rechtsverletzungen."
+      },
+      "limitations": {
+        "title": "Einschränkungen",
+        "content": "In keinem Fall haftet der Zufällige Gruppengenerator für Schäden (einschließlich, aber nicht beschränkt auf Schäden aus Datenverlust oder entgangenem Gewinn oder aufgrund von Geschäftsunterbrechung), die sich aus der Nutzung oder der Unmöglichkeit der Nutzung unseres Dienstes ergeben, selbst wenn der Zufällige Gruppengenerator oder ein autorisierter Vertreter mündlich oder schriftlich über die Möglichkeit solcher Schäden informiert wurde."
+      },
+      "data": {
+        "title": "Ihre Daten",
+        "content": "Sie behalten alle Rechte an den Daten, die Sie in den Dienst eingeben. Wir speichern, verarbeiten oder übertragen Ihre Daten nicht an Server. Alle Gruppengenerierungsoperationen erfolgen lokal in Ihrem Browser."
+      },
+      "modifications": {
+        "title": "Änderungen",
+        "content": "Der Zufällige Gruppengenerator behält sich das Recht vor, diese Nutzungsbedingungen jederzeit zu ändern oder zu ersetzen. Wir werden Sie über Änderungen informieren, indem wir die neuen Nutzungsbedingungen auf dieser Seite veröffentlichen. Ihre fortgesetzte Nutzung des Dienstes nach solchen Änderungen stellt Ihre Zustimmung zu den neuen Nutzungsbedingungen dar."
+      },
+      "contact": {
+        "title": "Kontaktieren Sie uns",
+        "content": "Wenn Sie Fragen zu diesen Nutzungsbedingungen haben, kontaktieren Sie uns bitte unter support@randomgroup.org."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Datenschutzrichtlinie",
+    "lastUpdated": "Zuletzt aktualisiert: {date}",
+    "sections": {
+      "intro": {
+        "title": "Einführung",
+        "content": "Beim Zufälligen Gruppengenerator (randomgroup.org) nehmen wir Ihre Privatsphäre ernst. Diese Datenschutzrichtlinie erklärt, wie wir mit Ihren Informationen umgehen, wenn Sie unser Gruppengenerierungstool verwenden. Wir sind bestrebt, Ihre Privatsphäre zu schützen und die Sicherheit Ihrer persönlichen Informationen zu gewährleisten."
+      },
+      "noCollect": {
+        "title": "Informationen, die wir nicht sammeln",
+        "content": "Unser Dienst wurde unter Berücksichtigung der Privatsphäre entwickelt. Wir:",
+        "list": "Sammeln keine persönlichen Informationen|Speichern keine Namen oder Daten, die Sie eingeben|Verfolgen Ihre Aktivitäten auf der Website nicht|Teilen keine Informationen mit Dritten"
+      },
+      "howItWorks": {
+        "title": "Wie es funktioniert",
+        "content": "Alle Gruppengenerierungsoperationen erfolgen direkt in Ihrem Browser. Die Namen und Daten, die Sie eingeben, werden lokal verarbeitet und nie an unsere Server übertragen. Sobald Sie die Seite schließen oder aktualisieren, werden die Daten dauerhaft gelöscht."
+      },
+      "technical": {
+        "title": "Technische Daten",
+        "content": "Wir sammeln minimale technische Daten, die für das ordnungsgemäße Funktionieren der Website erforderlich sind, einschließlich:",
+        "list": "Grundlegende Browser-Informationen|Spracheinstellungen|Website-Leistungsdaten|Technische Fehlerprotokolle"
+      },
+      "updates": {
+        "title": "Aktualisierungen der Datenschutzrichtlinie",
+        "content": "Wir können diese Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Alle Änderungen werden auf dieser Seite mit einem aktualisierten Revisionsdatum veröffentlicht. Wir empfehlen Ihnen, diese Datenschutzrichtlinie regelmäßig zu überprüfen."
+      },
+      "contact": {
+        "title": "Kontaktieren Sie uns",
+        "content": "Wenn Sie Fragen zu unserer Datenschutzrichtlinie haben, kontaktieren Sie uns bitte unter support@randomgroup.org."
+      }
+    }
+  }
+} 

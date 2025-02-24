@@ -1,0 +1,107 @@
+{
+  "common": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "legal": "Legal",
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy"
+    },
+    "languageSwitcher": {
+      "label": "Select language"
+    }
+  },
+  "home": {
+    "title": "Random Group Generator",
+    "description": "Create Random Groups in Seconds",
+    "subtitle": "The most trusted random group generator for educators and team leaders. Create balanced teams instantly with our free online tool. Perfect for classrooms, workshops, and team activities - no registration needed.",
+    "instructions": {
+      "title": "How to Use Random Group Generator",
+      "subtitle": "Quick, Simple, and Efficient",
+      "step1": {
+        "title": "Enter Names",
+        "description": "Simply paste your list of names or upload a file. Our random group generator supports both TXT and CSV formats, making it perfect for handling large teams or classroom rosters."
+      },
+      "step2": {
+        "title": "Set Group Parameters",
+        "description": "Choose your preferred group size or specify the number of groups. Our smart algorithm ensures balanced random group distribution every time."
+      },
+      "step3": {
+        "title": "Generate & Share",
+        "description": "Instantly create random groups and export them in your preferred format. Share results easily with your team or students. Not satisfied? Generate new groups with one click."
+      }
+    },
+    "features": {
+      "title": "Random Group Generator Features",
+      "subtitle": "Trusted by thousands of professionals worldwide",
+      "education": {
+        "title": "Education & Training",
+        "description": "Create balanced study groups and project teams effortlessly. Our random group generator is the go-to tool for educators looking to foster collaborative learning environments."
+      },
+      "professional": {
+        "title": "Professional Teams",
+        "description": "Streamline team formation for workshops, training sessions, and project assignments. Generate random groups that promote diverse perspectives and equal participation."
+      },
+      "events": {
+        "title": "Events & Activities",
+        "description": "Perfect for organizing team-building exercises, sports activities, and social events. Our random group generator ensures fair and unbiased team distribution."
+      },
+      "algorithm": {
+        "title": "Fair Distribution Algorithm",
+        "description": "Our advanced random group generator uses a sophisticated algorithm to ensure truly random and balanced group distribution, maintaining fairness in every scenario."
+      }
+    },
+    "faq": {
+      "title": "Random Group Generator FAQ",
+      "subtitle": "Everything you need to know",
+      "how": {
+        "title": "How does the random group generator work?",
+        "answer": "Our random group generator uses a cryptographically secure algorithm to ensure truly random and unbiased group assignments. Each member has an equal probability of being assigned to any group, guaranteeing fair distribution."
+      },
+      "max": {
+        "title": "What's the maximum group size?",
+        "answer": "The random group generator can handle lists of up to 1000 members efficiently. For larger groups, we recommend splitting them into smaller sessions for optimal performance and manageability."
+      },
+      "save": {
+        "title": "Can I save and share my random groups?",
+        "answer": "Yes! Export your random groups in TXT or CSV format. Share them instantly with your team or import them into your favorite spreadsheet software. Visit randomgroup.org anytime to generate new groups."
+      },
+      "data": {
+        "title": "Is my data safe?",
+        "answer": "Absolutely. Our random group generator processes everything locally in your browser. We never store or transmit your data to any server, ensuring complete privacy and security at randomgroup.org."
+      },
+      "balance": {
+        "title": "How are groups balanced?",
+        "answer": "The random group generator ensures optimal distribution by evenly allocating members across groups. If the total can't be divided equally, our smart algorithm distributes extra members fairly."
+      },
+      "regenerate": {
+        "title": "Can I regenerate my random groups?",
+        "answer": "Yes! Generate new random groups as many times as you need with just one click. Each generation is completely independent and random, giving you full control over your group formation process."
+      }
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "content": "We are dedicated to providing the best random group generation tool."
+  },
+  "legal": {
+    "title": "Legal Information",
+    "content": "Important legal information about our service."
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: {date}",
+    "content": {
+      "section1": "Terms and conditions of use",
+      "section2": "User responsibilities"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: {date}",
+    "content": {
+      "section1": "Data collection",
+      "section2": "Use of information"
+    }
+  }
+} 

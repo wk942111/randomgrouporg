@@ -1,0 +1,103 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply bg-neutral-50 text-neutral-800;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold text-neutral-900;
+  }
+}
+
+@layer components {
+  .container {
+    @apply max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center px-6 py-3 rounded-lg font-medium transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2;
+  }
+
+  .btn-primary {
+    @apply bg-gradient-to-r from-primary-600 to-primary-700 text-white hover:from-primary-700 hover:to-primary-800 focus:ring-primary-500;
+  }
+
+  .btn-secondary {
+    @apply bg-white text-neutral-700 border border-neutral-200 hover:bg-neutral-50 focus:ring-primary-500;
+  }
+
+  .card {
+    @apply bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow duration-200 border border-neutral-100;
+  }
+
+  .input-field {
+    @apply w-full px-4 py-3 rounded-lg border border-neutral-200 focus:border-primary-500 focus:ring-2 focus:ring-primary-200 outline-none transition duration-200;
+  }
+
+  .section {
+    @apply py-12 sm:py-16 lg:py-20;
+  }
+
+  .section-title {
+    @apply text-3xl sm:text-4xl lg:text-5xl font-bold text-center mb-4;
+  }
+
+  .section-subtitle {
+    @apply text-lg sm:text-xl text-neutral-600 text-center max-w-3xl mx-auto mb-12;
+  }
+
+  .feature-card {
+    @apply card p-6 flex flex-col items-start;
+  }
+
+  .feature-icon {
+    @apply w-12 h-12 text-primary-600 mb-4;
+  }
+
+  .feature-title {
+    @apply text-xl font-semibold mb-2;
+  }
+
+  .feature-description {
+    @apply text-neutral-600;
+  }
+
+  .faq-item {
+    @apply border-b border-neutral-200 py-6;
+  }
+
+  .faq-question {
+    @apply text-lg font-medium text-neutral-900 cursor-pointer hover:text-primary-600 transition-colors duration-200;
+  }
+
+  .faq-answer {
+    @apply mt-2 text-neutral-600;
+  }
+
+  /* 广告容器样式 */
+  .ad-container {
+    @apply my-8 p-4 bg-white rounded-lg shadow-sm;
+  }
+
+  .ad-container-horizontal {
+    @apply max-w-screen-xl mx-auto;
+  }
+
+  .ad-container-vertical {
+    @apply w-full max-w-xs;
+  }
+}
+
+/* RTL 支持 */
+[dir="rtl"] {
+  .language-switcher {
+    @apply space-x-reverse;
+  }
+} 

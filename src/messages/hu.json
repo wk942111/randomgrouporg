@@ -1,0 +1,348 @@
+{
+  "metadata": {
+    "title": "Véletlenszerű Csoportgenerátor | Ingyenes Online Csoportképző Eszköz",
+    "description": "Hozzon létre kiegyensúlyozott csoportokat azonnal a Véletlenszerű Csoportgenerátorral. Tökéletes osztálytermi, csapat és esemény használatra. Egyszerű, gyors és nem igényel regisztrációt.",
+    "keywords": "véletlenszerű csoportgenerátor, csapatgenerátor, csoportképző, osztálytermi csoportok, csapatszervező, véletlenszerű csapatképző",
+    "ogTitle": "Véletlenszerű Csoportgenerátor | Ingyenes Online Csoportképző Eszköz",
+    "ogDescription": "Hozzon létre kiegyensúlyozott csoportokat azonnal a Véletlenszerű Csoportgenerátorral. Tökéletes osztálytermi, csapat és esemény használatra.",
+    "siteName": "Véletlenszerű Csoportgenerátor",
+    "ogImageAlt": "Véletlenszerű Csoportgenerátor Felület",
+    "twitterTitle": "Véletlenszerű Csoportgenerátor | Ingyenes Online Csoportképző Eszköz",
+    "twitterDescription": "Hozzon létre kiegyensúlyozott csoportokat azonnal a Véletlenszerű Csoportgenerátorral. Tökéletes osztálytermi, csapat és esemény használatra.",
+    "authorName": "Véletlenszerű Csoportgenerátor Csapat",
+    "category": "Oktatás és Technológia",
+    "home": {
+      "title": "Véletlenszerű Csoportgenerátor - Ingyenes Online Csoportbeosztó Eszköz",
+      "description": "Ingyenes online véletlenszerű csoportgenerátor csapatok, diákok és projektek számára. Hozzon létre kiegyensúlyozott csoportokat azonnal egyszerűen használható eszközünkkel.",
+      "keywords": "véletlenszerű csoportgenerátor, csapatgenerátor, csoportbeosztó, véletlenszerű csapatgenerátor, osztálytermi csoportszervező, projekt csapatgenerátor",
+      "ogTitle": "Véletlenszerű Csoportgenerátor - Ingyenes Online Csoportbeosztó Eszköz",
+      "ogDescription": "Ingyenes online véletlenszerű csoportgenerátor csapatok, diákok és projektek számára.",
+      "ogImageAlt": "Véletlenszerű Csoportgenerátor Eszköz Felület"
+    },
+    "about": {
+      "title": "Rólunk - Véletlenszerű Csoportgenerátor",
+      "description": "Tudjon meg többet a Véletlenszerű Csoportgenerátorról, hogy miért hoztuk létre és hogyan használható",
+      "keywords": "rólunk, véletlenszerű csoportgenerátor, történet, csapat, küldetés",
+      "ogTitle": "Rólunk - Véletlenszerű Csoportgenerátor",
+      "ogDescription": "Tudjon meg többet a Véletlenszerű Csoportgenerátorról",
+      "ogImageAlt": "Véletlenszerű Csoportgenerátor Csapat"
+    },
+    "legal": {
+      "title": "Jogi Információk - Véletlenszerű Csoportgenerátor",
+      "description": "Fontos jogi információk a Véletlenszerű Csoportgenerátor használatáról",
+      "keywords": "jogi feltételek, adatvédelmi irányelvek, használati feltételek",
+      "ogTitle": "Jogi Információk - Véletlenszerű Csoportgenerátor",
+      "ogDescription": "Fontos jogi információk szolgáltatásainkról",
+      "ogImageAlt": "Véletlenszerű Csoportgenerátor Jogi Információk"
+    },
+    "terms": {
+      "title": "Használati Feltételek - Véletlenszerű Csoportgenerátor",
+      "description": "Feltételek és kikötések a Véletlenszerű Csoportgenerátor használatához",
+      "keywords": "használati feltételek, feltételek, megállapodás, szabályok, előírások",
+      "ogTitle": "Használati Feltételek - Véletlenszerű Csoportgenerátor",
+      "ogDescription": "Szolgáltatásaink használatának feltételei és kikötései",
+      "ogImageAlt": "Véletlenszerű Csoportgenerátor Használati Feltételek"
+    },
+    "privacy": {
+      "title": "Adatvédelmi Irányelvek - Véletlenszerű Csoportgenerátor",
+      "description": "Hogyan védjük az Ön adatait és hogyan kezeljük azokat",
+      "keywords": "adatvédelmi irányelvek, adatvédelem, biztonság, GDPR",
+      "ogTitle": "Adatvédelmi Irányelvek - Véletlenszerű Csoportgenerátor",
+      "ogDescription": "Ismerje meg, hogyan védjük az Ön adatait",
+      "ogImageAlt": "Véletlenszerű Csoportgenerátor Adatvédelmi Irányelvek"
+    }
+  },
+  "common": {
+    "nav": {
+      "home": "Kezdőlap",
+      "about": "Rólunk",
+      "legal": "Jogi",
+      "terms": "Feltételek",
+      "privacy": "Adatvédelem"
+    },
+    "languageSwitcher": {
+      "label": "Nyelv választása"
+    },
+    "alert": {
+      "close": "Bezárás",
+      "success": "Sikeres",
+      "error": "Hiba",
+      "warning": "Figyelmeztetés",
+      "info": "Információ"
+    },
+    "siteName": "Véletlenszerű Csoportgenerátor",
+    "authorName": "Véletlenszerű Csoportgenerátor Csapat",
+    "category": "Oktatás és Technológia",
+    "twitterCreator": "@randomgroup"
+  },
+  "groupGenerator": {
+    "input": {
+      "placeholder": "Írja be a listát ide (soronként egy név)",
+      "generateButton": "Csoportok Generálása",
+      "uploadButton": "Fájl Feltöltése",
+      "clearButton": "Törlés",
+      "regenerateButton": "Újragenerálás",
+      "copyButton": "Másolás vágólapra",
+      "lineCount": "{count} sor"
+    },
+    "settings": {
+      "method": {
+        "label": "Csoportosítási módszer",
+        "byCount": "Csoportok száma szerint",
+        "bySize": "Csoportméret szerint"
+      },
+      "groupCount": {
+        "label": "Csoportok száma",
+        "description": "Válassza ki a kívánt csoportok számát"
+      },
+      "groupSize": {
+        "label": "Csoportméret",
+        "description": "Válassza ki a csoportonkénti tagok számát"
+      }
+    },
+    "results": {
+      "title": "Eredmények",
+      "empty": "Az eredmények itt jelennek meg",
+      "group": "{number}. Csoport",
+      "members": "{count} tag",
+      "exportTxt": "Exportálás TXT",
+      "exportCsv": "Exportálás CSV"
+    },
+    "errors": {
+      "fileRead": "A fájl olvasása sikertelen. Kérjük, próbálja újra.",
+      "emptyInput": "Kérjük, adjon meg egy névlistát.",
+      "tooManyGroups": "A csoportok száma nem haladhatja meg a tagok teljes számát.",
+      "groupSizeTooLarge": "A csoport mérete nem haladhatja meg a tagok teljes számát.",
+      "invalidInput": "Érvénytelen bemenet. Kérjük, ellenőrizze és próbálja újra.",
+      "duplicateItems": "Ismétlődő elemek találhatók:",
+      "invalidFileType": "Csak TXT fájlok tölthetők fel."
+    }
+  },
+  "home": {
+    "title": "Véletlenszerű Csoportgenerátor",
+    "description": "Hozzon létre véletlenszerű csoportokat másodpercek alatt",
+    "subtitle": "A tanárok és csapatvezetők által leginkább megbízható véletlenszerű csoportgenerátor. Használja ingyenes online eszközünket kiegyensúlyozott csapatok azonnali létrehozásához. Tökéletes osztálytermi, workshop és csapatépítő tevékenységekhez - regisztráció nem szükséges.",
+    "instructions": {
+      "title": "Hogyan használja a Véletlenszerű Csoportgenerátort",
+      "subtitle": "Gyors, egyszerű és hatékony",
+      "step1": {
+        "title": "Lista megadása",
+        "description": "Egyszerűen illessze be a listáját vagy töltsön fel egy fájlt. A Véletlenszerű Csoportgenerátor támogatja a TXT és CSV formátumokat, ideális nagy csapatok vagy osztálylisták esetén."
+      },
+      "step2": {
+        "title": "Csoportparaméterek beállítása",
+        "description": "Válassza ki a kívánt csoportméretet vagy adja meg a csoportok számát. Intelligens algoritmusunk biztosítja a kiegyensúlyozott véletlenszerű csoportkiosztást minden alkalommal."
+      },
+      "step3": {
+        "title": "Generálás és megosztás",
+        "description": "Hozzon létre véletlenszerű csoportokat azonnal és exportálja a kívánt formátumban. Könnyen ossza meg az eredményeket csapatával vagy diákjaival. Nem elégedett az eredménnyel? Generáljon új csoportokat egyetlen kattintással."
+      }
+    },
+    "features": {
+      "title": "Véletlenszerű Csoportgenerátor Funkciói",
+      "subtitle": "Világszerte ezrek által megbízható",
+      "education": {
+        "title": "Oktatás és Képzés",
+        "description": "Hozzon létre kiegyensúlyozott tanulócsoportokat és projektcsapatokat könnyedén. A Véletlenszerű Csoportgenerátor az oktatók első választása az együttműködő tanulási környezet megteremtéséhez."
+      },
+      "professional": {
+        "title": "Szakmai Csapatok",
+        "description": "Egyszerűsítse a csapatképzést workshopokhoz, képzési kurzusokhoz és projektfeladatokhoz. Hozzon létre véletlenszerű csoportokat, amelyek elősegítik a sokszínű nézőpontokat és az egyenlő részvételt."
+      },
+      "events": {
+        "title": "Események és Projektek",
+        "description": "Tökéletes csapatépítő tevékenységek, sportesemények és társasági események szervezéséhez. A Véletlenszerű Csoportgenerátor biztosítja a méltányos és elfogulatlan csapatkiosztást."
+      },
+      "algorithm": {
+        "title": "Méltányos Elosztási Algoritmus",
+        "description": "Fejlett Véletlenszerű Csoportgenerátorunk összetett algoritmusokat használ, hogy minden esetben valóban véletlenszerű és kiegyensúlyozott csoportkiosztást biztosítson."
+      }
+    },
+    "faq": {
+      "title": "Gyakran Ismételt Kérdések",
+      "subtitle": "Gyakori kérdések a Véletlenszerű Csoportgenerátorról",
+      "how": {
+        "title": "Hogyan használjam ezt az eszközt?",
+        "answer": "Egyszerűen írja be vagy illessze be a listáját, válassza ki a kívánt csoportok számát vagy a csoportonkénti személyek számát, majd kattintson a generálás gombra. Ilyen egyszerű!"
+      },
+      "max": {
+        "title": "Hány személyt támogat?",
+        "answer": "Eszközünk akár 1000 fős listákat is kezel, így minden méretű csapat és osztály számára megfelelő."
+      },
+      "save": {
+        "title": "Elmenthetem az eredményeket?",
+        "answer": "Igen, exportálhatja az eredményeket különböző formátumokban, beleértve a PDF-et, Excel-t és szöveges fájlokat."
+      },
+      "data": {
+        "title": "Biztonságosak az adatok?",
+        "answer": "Értékeljük az Ön adatainak védelmét. Minden feldolgozás a böngészőjében történik, és nem tárolunk személyes információkat."
+      },
+      "balance": {
+        "title": "Hogyan biztosítják a csoportok kiegyensúlyozottságát?",
+        "answer": "Fejlett algoritmusokat használunk annak biztosítására, hogy a csoportméretek a lehető legegyenlőbbek legyenek, miközben megőrizzük a véletlenszerűséget."
+      },
+      "regenerate": {
+        "title": "Újragenerálhatom a csoportokat?",
+        "answer": "Természetesen! Bármikor kattinthat az újragenerálás gombra új véletlenszerű csoportok létrehozásához."
+      }
+    },
+    "benefits": {
+      "title": "A Véletlenszerű Csoportgenerátor Előnyei",
+      "list": "Időt és energiát takarít meg|Méltányos elosztást biztosít|Javítja a csapatmunka hatékonyságát|Rugalmas csoportmódosítási lehetőségek|Könnyű hozzáférés és használat|Technikai támogatás szükség esetén"
+    },
+    "testimonials": {
+      "title": "Felhasználói Vélemények",
+      "subtitle": "Mit mondanak felhasználóink a Véletlenszerű Csoportgenerátorról",
+      "items": {
+        "item1": {
+          "text": "Nagyszerű eszköz, rengeteg időt spóroltam meg az osztálytermi csoportok szervezésében.",
+          "author": "János - Tanár"
+        },
+        "item2": {
+          "text": "Könnyen használható és nagyon hatékony a workshopok szervezésében.",
+          "author": "Éva - Tréner"
+        },
+        "item3": {
+          "text": "A legjobb ingyenes eszköz kiegyensúlyozott véletlenszerű csoportok létrehozásához.",
+          "author": "Péter - Eseményszervező"
+        }
+      }
+    }
+  },
+  "about": {
+    "title": "Rólunk",
+    "mission": {
+      "title": "Küldetésünk",
+      "description": "A Véletlenszerű Csoportgenerátor küldetése, hogy egyszerű, hatékony és megbízható eszközt biztosítson tanárok, csapatvezetők és szervezők számára. Célunk a csoportok létrehozásának egyszerűsítése, miközben biztosítjuk a méltányos és véletlenszerű elosztást."
+    },
+    "features": {
+      "title": "Főbb Jellemzők",
+      "list": {
+        "grouping": "Rugalmas csoportosítási lehetőségek különböző igényekhez",
+        "interface": "Felhasználóbarát felület egyszerű navigációval",
+        "algorithm": "Méltányos elosztási algoritmus a kiegyensúlyozott csoportokért",
+        "export": "Exportálási lehetőségek különböző formátumokban",
+        "security": "Biztonságos és privát - nincs adattárolás"
+      }
+    },
+    "contact": {
+      "title": "Kapcsolat",
+      "description": "Visszajelzése fontos számunkra. Ha kérdése vagy javaslata van, keressen minket bizalommal az info@randomgroupgenerator.com címen."
+    }
+  },
+  "legal": {
+    "title": "Jogi információk",
+    "content": "Fontos jogi információk szolgáltatásainkról.",
+    "privacy": {
+      "title": "Adatvédelmi Irányelvek",
+      "description": "Értékeljük az Ön adatainak védelmét és elkötelezettek vagyunk azok megőrzése mellett. Tekintse meg adatvédelmi irányelveinket a részletekért.",
+      "readMore": "Teljes adatvédelmi irányelvek megtekintése"
+    },
+    "terms": {
+      "title": "Használati Feltételek",
+      "description": "A szolgáltatás használatával Ön elfogadja feltételeinket. Kérjük, olvassa el a részletes használati feltételeket.",
+      "readMore": "Teljes használati feltételek megtekintése"
+    }
+  },
+  "terms": {
+    "title": "Használati Feltételek",
+    "lastUpdated": "Utolsó frissítés: {date}",
+    "sections": {
+      "agreement": {
+        "title": "Megállapodás Elfogadása",
+        "content": "A Véletlenszerű Csoportgenerátor (randomgroup.org) használatával Ön elfogadja ezeket a használati feltételeket. Ha nem ért egyet a feltételek bármely részével, kérjük, ne használja szolgáltatásunkat."
+      },
+      "license": {
+        "title": "Használati Licenc",
+        "content": "A Véletlenszerű Csoportgenerátor személyes, nem kizárólagos, nem átruházható, korlátozott licencet biztosít az online csoportgenerátor eszköz használatára személyes vagy szakmai célokra. Ez a licenc nem tartalmazza:",
+        "restrictions": "Szoftverünk módosítását vagy másolását|A szolgáltatás kereskedelmi célú újraterjesztését|A webhelyen található szoftverek visszafejtését vagy újratervezését|Szerzői jogi vagy egyéb tulajdonjogi értesítések eltávolítását"
+      },
+      "disclaimer": {
+        "title": "Felelősség Kizárása",
+        "content": "A szolgáltatást 'ahogy van' alapon nyújtjuk. A Véletlenszerű Csoportgenerátor nem vállal semmilyen kifejezett vagy hallgatólagos garanciát, és ezennel kizár és elutasít minden egyéb garanciát, beleértve, de nem kizárólagosan, az értékesíthetőségre, adott célra való alkalmasságra vagy szellemi tulajdonjogok megsértésének elkerülésére vonatkozó hallgatólagos garanciákat vagy feltételeket."
+      },
+      "limitations": {
+        "title": "Korlátozások",
+        "content": "A Véletlenszerű Csoportgenerátor semmilyen körülmények között nem vállal felelősséget semmilyen kárért (beleértve, de nem kizárólagosan, az adatvesztésből vagy nyereségkiesésből eredő károkat, illetve az üzleti tevékenység megszakadásából eredő károkat), amely a szolgáltatás használatából vagy használhatatlanságából ered, még akkor sem, ha a Véletlenszerű Csoportgenerátort vagy annak hivatalos képviselőjét szóban vagy írásban tájékoztatták az ilyen károk lehetőségéről."
+      },
+      "data": {
+        "title": "Az Ön Adatai",
+        "content": "Ön megtartja minden jogát az általa a szolgáltatásba bevitt adatokra vonatkozóan. Nem tároljuk, nem dolgozzuk fel és nem továbbítjuk az Ön adatait semmilyen szerverre. Minden csoportgenerálás helyben történik az Ön böngészőjében."
+      },
+      "modifications": {
+        "title": "Módosítások",
+        "content": "A Véletlenszerű Csoportgenerátor fenntartja a jogot, hogy bármikor módosítsa vagy helyettesítse ezeket a használati feltételeket. Az esetleges változásokról értesítést küldünk az új használati feltételek ezen az oldalon történő közzétételével. A szolgáltatás további használata ezen változtatások után az új használati feltételek elfogadását jelenti."
+      },
+      "contact": {
+        "title": "Kapcsolat",
+        "content": "Ha bármilyen kérdése van ezekkel a használati feltételekkel kapcsolatban, kérjük, lépjen kapcsolatba velünk a support@randomgroup.org címen."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Adatvédelmi Irányelvek",
+    "lastUpdated": "Utolsó frissítés: {date}",
+    "sections": {
+      "intro": {
+        "title": "Bevezetés",
+        "content": "A Véletlenszerű Csoportgenerátornál értékeljük az Ön adatainak védelmét és elkötelezettek vagyunk azok megőrzése mellett. Ez az adatvédelmi irányelv elmagyarázza, hogyan kezeljük az információkat webhelyünk és szolgáltatásaink használata során."
+      },
+      "noCollect": {
+        "title": "Nem Gyűjtünk Adatokat",
+        "content": "Hiszünk a teljes adatvédelemben. Nem gyűjtünk és nem tárolunk személyes információkat.",
+        "list": "Nem tároljuk a neveket vagy listákat|Nem követjük a felhasználókat|Nem gyűjtünk személyes adatokat|Minden feldolgozás helyben történik a böngészőjében"
+      },
+      "howItWorks": {
+        "title": "Hogyan Működik",
+        "content": "Minden csoportgenerálás helyben történik az Ön böngészőjében. Semmilyen adat nem kerül továbbításra a szervereinkre."
+      },
+      "technical": {
+        "title": "Technikai Részletek",
+        "content": "Modern technológiákat használunk az Ön adatainak védelme és a biztonságos használat érdekében:",
+        "list": "Csak kliens oldali feldolgozás|Nincs adattárolás|Nincs követési süti használat|SSL/TLS titkosítás a kommunikációhoz"
+      },
+      "dataCollection": {
+        "title": "Adatgyűjtés",
+        "content": "Nem gyűjtünk személyes információkat felhasználóinktól. Minden adat, amit megad, helyben kerül feldolgozásra a böngészőjében.",
+        "details": "Nem tároljuk a megadott névlistákat|Nem követjük a használati szokásokat|Nem gyűjtünk személyazonosításra alkalmas információkat|Minden feldolgozás helyben történik"
+      },
+      "dataUse": {
+        "title": "Adatfelhasználás",
+        "content": "Nem tároljuk, nem osztjuk meg és nem értékesítjük az Ön adatait. Minden megadott információ csak átmenetileg kerül feldolgozásra a csoportok létrehozása céljából.",
+        "purposes": "Véletlenszerű csoportok létrehozása|Felhasználói élmény javítása|Webhely teljesítményének biztosítása|Technikai támogatás nyújtása kérés esetén"
+      },
+      "cookies": {
+        "title": "Sütik",
+        "content": "Csak a szükséges sütiket használjuk a felhasználói élmény javítása érdekében. Nem használunk sütiket követésre vagy hirdetésekhez.",
+        "types": "Munkamenet sütik: beállításai tárolására látogatása során|Teljesítmény sütik: a webhely teljesítményének javítására|Funkcionális sütik: az Ön preferenciáinak megjegyzésére, például a választott nyelvre"
+      },
+      "security": {
+        "title": "Biztonság",
+        "content": "Komolyan vesszük az Ön adatainak biztonságát. Minden művelet helyben történik a böngészőjében, így biztosítva, hogy adatai nem kerülnek megosztásra külső szerverekkel.",
+        "measures": "Helyi adatfeldolgozás|Nincs személyes információ tárolás|Biztonságos HTTPS kapcsolat|Adatok titkosítása átvitel közben"
+      },
+      "userRights": {
+        "title": "Felhasználói Jogok",
+        "content": "Mivel nem gyűjtünk személyes adatokat, az Ön adatai természetes módon védettek. Ennek ellenére Önnek joga van:",
+        "rights": "Tudni, hogyan használjuk az adatokat|Hozzáférni az adatvédelmi irányelvekhez bármikor|Kapcsolatba lépni velünk adatvédelmi aggályokkal|Elutasítani a nem szükséges sütik használatát"
+      },
+      "changes": {
+        "title": "Változások az Adatvédelmi Irányelvekben",
+        "content": "Időről időre frissíthetjük ezt az adatvédelmi irányelvet. Az esetleges változásokról értesítést küldünk az új irányelv ezen az oldalon történő közzétételével."
+      },
+      "contact": {
+        "title": "Kapcsolat",
+        "content": "Ha bármilyen kérdése van adatvédelmi irányelveinkkel kapcsolatban, kérjük, lépjen kapcsolatba velünk a privacy@randomgroup.org címen.",
+        "methods": {
+          "item1": "E-mail: privacy@randomgroup.org",
+          "item2": "Kapcsolatfelvételi űrlap a weboldalunkon",
+          "item3": "Levelezési cím: [Iroda címe]"
+        }
+      },
+      "updates": {
+        "title": "Frissítések az Adatvédelmi Irányelvekben",
+        "content": "Időről időre frissíthetjük adatvédelmi irányelveinket. A változásokról értesítést küldünk az új irányelv közzétételével ezen az oldalon."
+      }
+    }
+  }
+} 

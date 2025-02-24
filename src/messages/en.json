@@ -1,0 +1,287 @@
+{
+  "metadata": {
+    "title": "Random Group Generator | Free Online Team Grouping Tool",
+    "description": "Create balanced groups instantly with our free Random Group Generator. Perfect for classrooms, teams, and events. Simple, fast, and no registration required.",
+    "keywords": "random group generator, team generator, group maker, classroom groups, team organizer, random team creator",
+    "ogTitle": "Random Group Generator | Free Online Team Grouping Tool",
+    "ogDescription": "Create balanced groups instantly with our free Random Group Generator. Perfect for classrooms, teams, and events.",
+    "siteName": "Random Group Generator",
+    "ogImageAlt": "Random Group Generator Interface",
+    "twitterTitle": "Random Group Generator | Free Online Team Grouping Tool",
+    "twitterDescription": "Create balanced groups instantly with our free Random Group Generator. Perfect for classrooms, teams, and events.",
+    "authorName": "Random Group Generator Team",
+    "category": "Education & Technology",
+    "home": {
+      "title": "Random Group Generator - Free Online Team Grouping Tool",
+      "description": "Free online random group generator for teams, students, and projects. Create balanced groups instantly with our easy-to-use tool.",
+      "keywords": "random group generator, team generator, group maker, random team creator, classroom group organizer, project team generator",
+      "ogTitle": "Random Group Generator - Free Online Team Grouping Tool",
+      "ogDescription": "Free online random group generator for teams, students, and projects.",
+      "ogImageAlt": "Random Group Generator Tool Interface"
+    },
+    "about": {
+      "title": "About Us - Random Group Generator",
+      "description": "Learn more about Random Group Generator, the free online tool for creating balanced groups instantly.",
+      "keywords": "about us, random group generator, team grouping, mission vision, contact",
+      "ogTitle": "About Random Group Generator",
+      "ogDescription": "Learn more about how we help you create perfect team groups.",
+      "ogImageAlt": "Random Group Generator Team"
+    },
+    "legal": {
+      "title": "Legal Information - Random Group Generator",
+      "description": "View legal information for Random Group Generator, including terms of use and privacy policy.",
+      "keywords": "legal information, terms of use, privacy policy, user agreement",
+      "ogTitle": "Legal Information - Random Group Generator",
+      "ogDescription": "Understand your rights and responsibilities when using Random Group Generator.",
+      "ogImageAlt": "Random Group Generator Legal Information"
+    },
+    "terms": {
+      "title": "Terms of Use - Random Group Generator",
+      "description": "Read the terms of use for Random Group Generator and understand your rights and responsibilities when using our service.",
+      "keywords": "terms of use, service terms, user agreement, legal terms",
+      "ogTitle": "Terms of Use - Random Group Generator",
+      "ogDescription": "Understand the terms and conditions for using Random Group Generator service.",
+      "ogImageAlt": "Random Group Generator Terms of Use"
+    },
+    "privacy": {
+      "title": "Privacy Policy - Random Group Generator",
+      "description": "Learn how Random Group Generator protects your privacy and personal information. We value your data security.",
+      "keywords": "privacy policy, data protection, personal information, security policy",
+      "ogTitle": "Privacy Policy - Random Group Generator",
+      "ogDescription": "Learn how we protect your privacy and personal information.",
+      "ogImageAlt": "Random Group Generator Privacy Policy"
+    },
+    "common": {
+      "siteName": "Random Group Generator",
+      "authorName": "Random Group Generator Team",
+      "category": "Technology",
+      "twitterCreator": "@randomgroup"
+    }
+  },
+  "common": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "legal": "Legal",
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy"
+    },
+    "languageSwitcher": {
+      "label": "Select language"
+    },
+    "alert": {
+      "close": "Close"
+    }
+  },
+  "groupGenerator": {
+    "input": {
+      "placeholder": "Enter names (one per line) or upload a file",
+      "lineCount": "{count} lines",
+      "uploadButton": "Upload File",
+      "generateButton": "Generate Groups",
+      "clearButton": "Clear"
+    },
+    "settings": {
+      "method": {
+        "label": "Grouping Method",
+        "byCount": "By Number of Groups",
+        "bySize": "By Group Size"
+      },
+      "groupCount": {
+        "label": "Number of Groups",
+        "description": "Members will be distributed evenly. If the total can't be divided equally, extra members will be allocated starting from the first group."
+      },
+      "groupSize": {
+        "label": "Members per Group",
+        "description": "The last group may have fewer members than specified."
+      }
+    },
+    "results": {
+      "title": "Generated Groups",
+      "exportTxt": "Export as TXT",
+      "exportCsv": "Export as CSV",
+      "group": "Group {number}",
+      "members": "{count} members",
+      "empty": "Enter names (one per line) or upload a file"
+    },
+    "errors": {
+      "fileRead": "Error reading file. Please try again.",
+      "emptyInput": "Please enter a list of names.",
+      "tooManyGroups": "Number of groups cannot exceed total member count.",
+      "groupSizeTooLarge": "Group size cannot exceed total member count.",
+      "invalidInput": "Invalid input. Please check and try again.",
+      "duplicateItems": "Duplicate items found:",
+      "invalidFileType": "Only TXT files can be uploaded."
+    }
+  },
+  "home": {
+    "title": "Random Group Generator",
+    "description": "Create Balanced Groups in Seconds",
+    "subtitle": "The trusted Random Group Generator for educators and team leaders. Our free online tool helps you create balanced teams instantly. Perfect for classrooms, workshops, and team activities - no registration needed.",
+    "instructions": {
+      "title": "How to Use Random Group Generator",
+      "subtitle": "Simple Steps for Perfect Groups",
+      "step1": {
+        "title": "Enter Names",
+        "description": "Simply paste your list or upload a TXT file. Our Random Group Generator handles both small teams and large classroom rosters efficiently."
+      },
+      "step2": {
+        "title": "Choose Group Settings",
+        "description": "Select either the number of groups or members per group. Our smart Random Group Generator ensures balanced distribution every time."
+      },
+      "step3": {
+        "title": "Generate & Export",
+        "description": "Create groups instantly and export them as TXT or CSV files. Not satisfied? Use our Random Group Generator to create new groups with one click."
+      }
+    },
+    "features": {
+      "title": "Why Choose Our Random Group Generator",
+      "subtitle": "Trusted by educators and professionals worldwide",
+      "education": {
+        "title": "Education & Training",
+        "description": "Our Random Group Generator creates balanced study groups effortlessly. Perfect for classroom activities and collaborative learning."
+      },
+      "professional": {
+        "title": "Professional Teams",
+        "description": "Organize workshop participants and project teams fairly. The Random Group Generator ensures diverse group composition."
+      },
+      "events": {
+        "title": "Events & Activities",
+        "description": "Ideal for team-building exercises and social events. Create balanced groups that encourage participation and engagement."
+      },
+      "algorithm": {
+        "title": "Smart Distribution",
+        "description": "Advanced algorithm ensures fair and random group distribution while maintaining perfect balance."
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Common questions about our Random Group Generator",
+      "how": {
+        "title": "How does it work?",
+        "answer": "Enter your list, choose group size or count, and let our Random Group Generator do the rest. It's that simple!"
+      },
+      "max": {
+        "title": "How many names can it handle?",
+        "answer": "Our Random Group Generator can process up to 1000 names, perfect for any size group or class."
+      },
+      "save": {
+        "title": "Can I save the results?",
+        "answer": "Yes, export your groups in TXT or CSV format for easy sharing and reference."
+      },
+      "data": {
+        "title": "Is my data secure?",
+        "answer": "Absolutely! Our Random Group Generator processes everything in your browser - we don't store any information."
+      },
+      "balance": {
+        "title": "How is balance maintained?",
+        "answer": "The Random Group Generator uses smart algorithms to ensure groups are as even as possible while maintaining randomness."
+      },
+      "regenerate": {
+        "title": "Can I regenerate groups?",
+        "answer": "Yes! Click regenerate anytime to get new random groups with the same settings."
+      }
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "mission": {
+      "title": "Our Mission",
+      "description": "Random Group Generator is a user-friendly tool designed to help educators, team leaders, and event organizers create balanced groups efficiently. Our mission is to provide an intuitive, effective, and fair solution for all your team formation needs."
+    },
+    "features": {
+      "title": "Key Features",
+      "list": {
+        "grouping": "Flexible grouping options - by group count or size per group",
+        "interface": "Intuitive interface for easy operation",
+        "algorithm": "Fair and random distribution algorithm",
+        "export": "Export functionality for group results",
+        "security": "Secure and private - no data storage"
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "We value your feedback and are committed to improving our service. If you have any questions, suggestions, or need assistance, please don't hesitate to reach out to us."
+    }
+  },
+  "legal": {
+    "title": "Legal Information",
+    "privacy": {
+      "title": "Privacy Policy",
+      "description": "We value your privacy and are committed to protecting your personal information. Please review our Privacy Policy to understand how we collect, use, and protect your data.",
+      "readMore": "Read Full Privacy Policy"
+    },
+    "terms": {
+      "title": "Terms of Use",
+      "description": "By using our service, you agree to comply with our Terms of Use. Please read these terms carefully to understand your rights and responsibilities.",
+      "readMore": "Read Full Terms of Use"
+    }
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "lastUpdated": "Last updated: {date}",
+    "sections": {
+      "agreement": {
+        "title": "Agreement to Terms",
+        "content": "By accessing and using Random Group Generator (randomgroup.org), you agree to be bound by these Terms of Use. If you disagree with any part of these terms, you may not access our service."
+      },
+      "license": {
+        "title": "Use License",
+        "content": "Random Group Generator grants you a personal, non-exclusive, non-transferable, limited license to use our online group generation tool for your personal or professional needs. This license does not include:",
+        "restrictions": "Modifying or copying our software|Using the service for commercial redistribution|Attempting to decompile or reverse engineer any software contained on the website|Removing any copyright or other proprietary notations"
+      },
+      "disclaimer": {
+        "title": "Disclaimer",
+        "content": "The service is provided \"as is\". Random Group Generator makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights."
+      },
+      "limitations": {
+        "title": "Limitations",
+        "content": "In no event shall Random Group Generator be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use our service, even if Random Group Generator or an authorized representative has been notified orally or in writing of the possibility of such damage."
+      },
+      "data": {
+        "title": "Your Data",
+        "content": "You retain all rights to any data you input into the service. We do not store, process, or transmit your data to any servers. All group generation operations occur locally in your browser."
+      },
+      "modifications": {
+        "title": "Modifications",
+        "content": "Random Group Generator reserves the right to modify or replace these Terms of Use at any time. We will provide notice of any changes by posting the new Terms of Use on this page. Your continued use of the service after any such changes constitutes your acceptance of the new Terms of Use."
+      },
+      "contact": {
+        "title": "Contact Us",
+        "content": "If you have any questions about these Terms of Use, please contact us at support@randomgroup.org."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: {date}",
+    "sections": {
+      "intro": {
+        "title": "Introduction",
+        "content": "At Random Group Generator (randomgroup.org), we take your privacy seriously. This Privacy Policy explains how we handle your information when you use our random group generation tool. We are committed to protecting your privacy and ensuring you have a positive experience on our website."
+      },
+      "noCollect": {
+        "title": "Information We Don't Collect",
+        "content": "Our service is designed with privacy in mind. We do not:",
+        "list": "Store any names or data you input for group generation|Collect personal information|Use cookies for tracking|Share any information with third parties"
+      },
+      "howItWorks": {
+        "title": "How It Works",
+        "content": "All group generation operations occur directly in your browser. The names and data you enter are processed locally and are never transmitted to our servers. Once you close or refresh the page, all entered data is automatically cleared."
+      },
+      "technical": {
+        "title": "Technical Data",
+        "content": "We collect minimal technical data required for the website to function properly, including:",
+        "list": "Basic usage statistics (page views, error logs)|Standard server logs for security and maintenance"
+      },
+      "updates": {
+        "title": "Updates to Privacy Policy",
+        "content": "We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date. We encourage you to review this Privacy Policy periodically."
+      },
+      "contact": {
+        "title": "Contact Us",
+        "content": "If you have any questions about our Privacy Policy, please contact us at support@randomgroup.org."
+      }
+    }
+  }
+} 

@@ -1,0 +1,282 @@
+{
+  "metadata": {
+    "title": "Trình Tạo Nhóm Ngẫu Nhiên | Công Cụ Phân Nhóm Trực Tuyến Miễn Phí",
+    "description": "Tạo các nhóm cân bằng ngay lập tức với Trình Tạo Nhóm Ngẫu Nhiên miễn phí của chúng tôi. Hoàn hảo cho lớp học, đội nhóm và sự kiện. Đơn giản, nhanh chóng và không cần đăng ký.",
+    "keywords": "trình tạo nhóm ngẫu nhiên, tạo đội nhóm, công cụ tạo nhóm, nhóm lớp học, tổ chức đội nhóm, tạo đội ngẫu nhiên",
+    "ogTitle": "Trình Tạo Nhóm Ngẫu Nhiên | Công Cụ Phân Nhóm Trực Tuyến Miễn Phí",
+    "ogDescription": "Tạo các nhóm cân bằng ngay lập tức với Trình Tạo Nhóm Ngẫu Nhiên miễn phí của chúng tôi. Hoàn hảo cho lớp học, đội nhóm và sự kiện.",
+    "siteName": "Trình Tạo Nhóm Ngẫu Nhiên",
+    "ogImageAlt": "Giao diện Trình Tạo Nhóm Ngẫu Nhiên",
+    "twitterTitle": "Trình Tạo Nhóm Ngẫu Nhiên | Công Cụ Phân Nhóm Trực Tuyến Miễn Phí",
+    "twitterDescription": "Tạo các nhóm cân bằng ngay lập tức với Trình Tạo Nhóm Ngẫu Nhiên miễn phí của chúng tôi. Hoàn hảo cho lớp học, đội nhóm và sự kiện.",
+    "authorName": "Đội ngũ Trình Tạo Nhóm Ngẫu Nhiên",
+    "category": "Giáo dục & Công nghệ",
+    "home": {
+      "title": "Trình Tạo Nhóm Ngẫu Nhiên - Công Cụ Phân Nhóm Trực Tuyến Miễn Phí",
+      "description": "Trình tạo nhóm ngẫu nhiên trực tuyến miễn phí cho đội nhóm, học sinh và dự án. Tạo các nhóm cân bằng ngay lập tức với công cụ dễ sử dụng của chúng tôi.",
+      "keywords": "trình tạo nhóm ngẫu nhiên, tạo đội nhóm, công cụ tạo nhóm, tạo đội ngẫu nhiên, tổ chức nhóm lớp học, tạo nhóm dự án",
+      "ogTitle": "Trình Tạo Nhóm Ngẫu Nhiên - Công Cụ Phân Nhóm Trực Tuyến Miễn Phí",
+      "ogDescription": "Trình tạo nhóm ngẫu nhiên trực tuyến miễn phí cho đội nhóm, học sinh và dự án.",
+      "ogImageAlt": "Giao diện công cụ Trình Tạo Nhóm Ngẫu Nhiên"
+    },
+    "about": {
+      "title": "Giới thiệu - Trình Tạo Nhóm Ngẫu Nhiên",
+      "description": "Tìm hiểu về sứ mệnh và tính năng của Trình Tạo Nhóm Ngẫu Nhiên. Công cụ tạo nhóm trực tuyến miễn phí hàng đầu cho giáo dục và tổ chức.",
+      "keywords": "giới thiệu, về chúng tôi, tính năng, công cụ tạo nhóm, sứ mệnh",
+      "ogTitle": "Giới thiệu - Trình Tạo Nhóm Ngẫu Nhiên",
+      "ogDescription": "Tìm hiểu về sứ mệnh và tính năng của Trình Tạo Nhóm Ngẫu Nhiên.",
+      "ogImageAlt": "Trang giới thiệu Trình Tạo Nhóm Ngẫu Nhiên"
+    },
+    "legal": {
+      "title": "Thông tin pháp lý - Trình Tạo Nhóm Ngẫu Nhiên",
+      "description": "Thông tin pháp lý quan trọng về việc sử dụng Trình Tạo Nhóm Ngẫu Nhiên, bao gồm điều khoản sử dụng và chính sách quyền riêng tư.",
+      "keywords": "pháp lý, điều khoản, quyền riêng tư, chính sách, thỏa thuận",
+      "ogTitle": "Thông tin pháp lý - Trình Tạo Nhóm Ngẫu Nhiên",
+      "ogDescription": "Thông tin pháp lý quan trọng về việc sử dụng Trình Tạo Nhóm Ngẫu Nhiên.",
+      "ogImageAlt": "Trang thông tin pháp lý"
+    },
+    "terms": {
+      "title": "Điều khoản sử dụng - Trình Tạo Nhóm Ngẫu Nhiên",
+      "description": "Điều khoản và điều kiện sử dụng Trình Tạo Nhóm Ngẫu Nhiên. Tìm hiểu về quyền và trách nhiệm của bạn khi sử dụng dịch vụ của chúng tôi.",
+      "keywords": "điều khoản sử dụng, điều kiện, thỏa thuận, quy định, giấy phép",
+      "ogTitle": "Điều khoản sử dụng - Trình Tạo Nhóm Ngẫu Nhiên",
+      "ogDescription": "Điều khoản và điều kiện sử dụng Trình Tạo Nhóm Ngẫu Nhiên.",
+      "ogImageAlt": "Trang điều khoản sử dụng"
+    },
+    "privacy": {
+      "title": "Chính sách bảo mật - Trình Tạo Nhóm Ngẫu Nhiên",
+      "description": "Tìm hiểu cách Trình Tạo Nhóm Ngẫu Nhiên bảo vệ quyền riêng tư và thông tin cá nhân của bạn. Chúng tôi coi trọng sự an toàn dữ liệu của bạn.",
+      "keywords": "chính sách bảo mật, bảo vệ dữ liệu, thông tin cá nhân, chính sách an ninh",
+      "ogTitle": "Chính sách bảo mật - Trình Tạo Nhóm Ngẫu Nhiên",
+      "ogDescription": "Tìm hiểu cách chúng tôi bảo vệ quyền riêng tư và thông tin cá nhân của bạn.",
+      "ogImageAlt": "Trang Chính sách bảo mật của Trình Tạo Nhóm Ngẫu Nhiên"
+    }
+  },
+  "common": {
+    "nav": {
+      "home": "Trang chủ",
+      "about": "Giới thiệu",
+      "legal": "Pháp lý",
+      "terms": "Điều khoản",
+      "privacy": "Quyền riêng tư"
+    },
+    "languageSwitcher": {
+      "label": "Chọn ngôn ngữ"
+    },
+    "alert": {
+      "close": "Đóng"
+    }
+  },
+  "groupGenerator": {
+    "input": {
+      "placeholder": "Nhập danh sách tên (mỗi tên một dòng)",
+      "generateButton": "Tạo nhóm",
+      "uploadButton": "Tải lên tệp",
+      "clearButton": "Xóa",
+      "lineCount": "{count} dòng"
+    },
+    "settings": {
+      "method": {
+        "label": "Phương thức phân nhóm",
+        "byCount": "Theo số nhóm",
+        "bySize": "Theo kích thước nhóm"
+      },
+      "groupCount": {
+        "label": "Số nhóm",
+        "description": "Chọn số lượng nhóm bạn muốn tạo"
+      },
+      "groupSize": {
+        "label": "Kích thước nhóm",
+        "description": "Chọn số thành viên cho mỗi nhóm"
+      }
+    },
+    "results": {
+      "title": "Kết quả phân nhóm",
+      "empty": "Kết quả phân nhóm sẽ xuất hiện ở đây",
+      "group": "Nhóm {{number}}",
+      "members": "{{count}} thành viên",
+      "exportTxt": "Xuất TXT",
+      "exportCsv": "Xuất CSV"
+    },
+    "errors": {
+      "fileRead": "Lỗi đọc tệp. Vui lòng thử lại.",
+      "emptyInput": "Vui lòng nhập danh sách tên.",
+      "tooManyGroups": "Số lượng nhóm không thể vượt quá tổng số thành viên.",
+      "groupSizeTooLarge": "Kích thước nhóm không thể vượt quá tổng số thành viên.",
+      "invalidInput": "Dữ liệu không hợp lệ. Vui lòng kiểm tra và thử lại.",
+      "duplicateItems": "Tìm thấy các mục trùng lặp:",
+      "invalidFileType": "Chỉ có thể tải lên tệp TXT."
+    }
+  },
+  "home": {
+    "title": "Trình Tạo Nhóm Ngẫu Nhiên",
+    "description": "Tạo nhóm cân bằng trong vài giây",
+    "subtitle": "Trình tạo nhóm ngẫu nhiên được tin cậy nhất cho giáo viên và trưởng nhóm. Sử dụng công cụ trực tuyến miễn phí của chúng tôi để tạo ngay các nhóm cân bằng. Phù hợp cho lớp học, hội thảo và hoạt động nhóm - không cần đăng ký.",
+    "instructions": {
+      "title": "Cách sử dụng Trình Tạo Nhóm Ngẫu Nhiên",
+      "subtitle": "Nhanh chóng, đơn giản và hiệu quả",
+      "step1": {
+        "title": "Nhập danh sách",
+        "description": "Chỉ cần dán danh sách của bạn hoặc tải lên tệp. Trình tạo nhóm ngẫu nhiên của chúng tôi hỗ trợ định dạng TXT và CSV, hoàn hảo cho danh sách lớp hoặc nhóm lớn."
+      },
+      "step2": {
+        "title": "Thiết lập tham số nhóm",
+        "description": "Chọn kích thước nhóm mong muốn hoặc chỉ định số nhóm. Thuật toán thông minh của chúng tôi đảm bảo phân phối nhóm ngẫu nhiên cân bằng mỗi lần."
+      },
+      "step3": {
+        "title": "Tạo và chia sẻ",
+        "description": "Tạo nhóm ngẫu nhiên ngay lập tức và xuất kết quả theo định dạng bạn thích. Dễ dàng chia sẻ kết quả với nhóm hoặc học sinh của bạn. Không hài lòng với kết quả? Tạo lại nhóm mới chỉ với một cú nhấp."
+      }
+    },
+    "features": {
+      "title": "Tính năng của Trình Tạo Nhóm Ngẫu Nhiên",
+      "subtitle": "Được tin cậy bởi hàng nghìn chuyên gia trên toàn cầu",
+      "education": {
+        "title": "Giáo dục & Đào tạo",
+        "description": "Dễ dàng tạo các nhóm học tập và nhóm dự án cân bằng. Trình tạo nhóm ngẫu nhiên của chúng tôi là công cụ ưa thích của các nhà giáo dục để tạo môi trường học tập hợp tác."
+      },
+      "professional": {
+        "title": "Đội nhóm chuyên nghiệp",
+        "description": "Đơn giản hóa việc tổ chức nhóm cho hội thảo, khóa đào tạo và phân công dự án. Tạo các nhóm ngẫu nhiên thúc đẩy đa dạng quan điểm và sự tham gia bình đẳng."
+      },
+      "events": {
+        "title": "Sự kiện & Dự án",
+        "description": "Hoàn hảo cho việc tổ chức các hoạt động xây dựng đội nhóm, sự kiện thể thao và hoạt động xã hội. Trình tạo nhóm ngẫu nhiên của chúng tôi đảm bảo phân chia nhóm công bằng và không thiên vị."
+      },
+      "algorithm": {
+        "title": "Thuật toán phân phối công bằng",
+        "description": "Trình tạo nhóm ngẫu nhiên nâng cao của chúng tôi sử dụng thuật toán phức tạp để đảm bảo phân phối nhóm thực sự ngẫu nhiên và cân bằng trong mọi tình huống."
+      }
+    },
+    "faq": {
+      "title": "Câu hỏi thường gặp",
+      "subtitle": "Câu trả lời cho các câu hỏi phổ biến về Trình Tạo Nhóm Ngẫu Nhiên",
+      "how": {
+        "title": "Làm thế nào để sử dụng công cụ này?",
+        "answer": "Chỉ cần nhập hoặc dán danh sách của bạn, chọn số nhóm hoặc kích thước nhóm mong muốn, sau đó nhấp vào nút tạo. Đơn giản vậy thôi!"
+      },
+      "max": {
+        "title": "Hỗ trợ bao nhiêu người?",
+        "answer": "Công cụ của chúng tôi có thể xử lý danh sách lên đến 1000 người, phù hợp cho mọi quy mô nhóm và lớp học."
+      },
+      "save": {
+        "title": "Có thể lưu kết quả không?",
+        "answer": "Có, bạn có thể xuất kết quả theo nhiều định dạng, bao gồm PDF, Excel và tệp văn bản."
+      },
+      "data": {
+        "title": "Dữ liệu có an toàn không?",
+        "answer": "Chúng tôi coi trọng quyền riêng tư của bạn. Tất cả xử lý được thực hiện trong trình duyệt của bạn, chúng tôi không lưu trữ bất kỳ thông tin cá nhân nào."
+      },
+      "balance": {
+        "title": "Làm thế nào để đảm bảo nhóm cân bằng?",
+        "answer": "Chúng tôi sử dụng thuật toán tiên tiến để đảm bảo số lượng thành viên giữa các nhóm càng đồng đều càng tốt trong khi vẫn duy trì tính ngẫu nhiên."
+      },
+      "regenerate": {
+        "title": "Có thể tạo lại nhóm không?",
+        "answer": "Tất nhiên! Bạn có thể nhấp vào nút tạo lại bất cứ lúc nào để có phân nhóm ngẫu nhiên mới."
+      }
+    }
+  },
+  "about": {
+    "title": "Giới thiệu",
+    "mission": {
+      "title": "Sứ mệnh của chúng tôi",
+      "description": "Chúng tôi cam kết cung cấp công cụ tạo nhóm ngẫu nhiên tốt nhất, giúp giáo viên và người tổ chức dễ dàng tạo các nhóm công bằng và hiệu quả."
+    },
+    "features": {
+      "title": "Tính năng chính",
+      "list": {
+        "grouping": "Tạo nhóm ngẫu nhiên công bằng",
+        "interface": "Giao diện người dùng đơn giản và trực quan",
+        "algorithm": "Thuật toán phân nhóm thông minh",
+        "export": "Nhiều tùy chọn xuất kết quả",
+        "security": "Bảo mật và quyền riêng tư được đảm bảo"
+      }
+    },
+    "contact": {
+      "title": "Liên hệ",
+      "description": "Có câu hỏi hoặc đề xuất? Chúng tôi luôn sẵn sàng lắng nghe phản hồi của bạn."
+    }
+  },
+  "legal": {
+    "title": "Thông tin pháp lý",
+    "content": "Thông tin pháp lý quan trọng về dịch vụ của chúng tôi.",
+    "privacy": {
+      "title": "Chính sách quyền riêng tư",
+      "description": "Tìm hiểu cách chúng tôi bảo vệ thông tin của bạn",
+      "readMore": "Đọc thêm về chính sách quyền riêng tư"
+    },
+    "terms": {
+      "title": "Điều khoản sử dụng",
+      "description": "Điều khoản và điều kiện sử dụng dịch vụ của chúng tôi",
+      "readMore": "Đọc thêm về điều khoản sử dụng"
+    }
+  },
+  "terms": {
+    "title": "Điều khoản sử dụng",
+    "lastUpdated": "Cập nhật lần cuối: {date}",
+    "sections": {
+      "agreement": {
+        "title": "Thỏa thuận sử dụng",
+        "content": "Bằng việc sử dụng dịch vụ này, bạn đồng ý tuân thủ các điều khoản và điều kiện sau."
+      },
+      "license": {
+        "title": "Giấy phép sử dụng",
+        "content": "Chúng tôi cấp cho bạn giấy phép có giới hạn để sử dụng dịch vụ này cho mục đích cá nhân hoặc giáo dục.",
+        "restrictions": "Không sao chép hoặc phân phối lại|Không sử dụng cho mục đích thương mại|Không chỉnh sửa hoặc đảo ngược mã nguồn"
+      },
+      "disclaimer": {
+        "title": "Tuyên bố từ chối trách nhiệm",
+        "content": "Dịch vụ được cung cấp 'nguyên trạng' mà không có bất kỳ bảo đảm nào."
+      },
+      "limitations": {
+        "title": "Giới hạn trách nhiệm",
+        "content": "Chúng tôi không chịu trách nhiệm về bất kỳ thiệt hại nào phát sinh từ việc sử dụng dịch vụ."
+      },
+      "data": {
+        "title": "Sử dụng dữ liệu",
+        "content": "Chúng tôi không lưu trữ hoặc sử dụng dữ liệu cá nhân của bạn ngoài mục đích cung cấp dịch vụ."
+      },
+      "modifications": {
+        "title": "Sửa đổi điều khoản",
+        "content": "Chúng tôi có quyền sửa đổi các điều khoản này vào bất kỳ lúc nào."
+      },
+      "contact": {
+        "title": "Liên hệ",
+        "content": "Nếu bạn có thắc mắc về các điều khoản sử dụng này, vui lòng liên hệ chúng tôi tại support@randomgroup.org."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Chính sách bảo mật",
+    "lastUpdated": "Cập nhật lần cuối: {date}",
+    "sections": {
+      "intro": {
+        "title": "Giới thiệu",
+        "content": "Quyền riêng tư của bạn rất quan trọng với chúng tôi. Chính sách bảo mật này giải thích cách chúng tôi bảo vệ dữ liệu của bạn."
+      },
+      "noCollect": {
+        "title": "Không thu thập dữ liệu cá nhân",
+        "content": "Ứng dụng của chúng tôi hoạt động hoàn toàn cục bộ trên trình duyệt của bạn. Chúng tôi không thu thập, lưu trữ hoặc xử lý bất kỳ dữ liệu cá nhân nào.",
+        "list": "Tên|Địa chỉ email|Thông tin liên hệ|Thông tin vị trí|Dữ liệu nhân khẩu học"
+      },
+      "howItWorks": {
+        "title": "Cách hoạt động",
+        "content": "Tất cả các hoạt động được thực hiện cục bộ trên trình duyệt của bạn. Dữ liệu nhập vào không được gửi đến máy chủ của chúng tôi."
+      },
+      "technical": {
+        "title": "Thông tin kỹ thuật",
+        "content": "Chúng tôi chỉ sử dụng cookie thiết yếu và dữ liệu kỹ thuật cần thiết để cung cấp chức năng của ứng dụng.",
+        "list": "Cookie phiên cơ bản|Tùy chọn ngôn ngữ|Cài đặt giao diện|Dữ liệu ứng dụng tạm thời|Cài đặt cục bộ"
+      },
+      "updates": {
+        "title": "Cập nhật chính sách",
+        "content": "Chúng tôi có thể cập nhật chính sách bảo mật này định kỳ. Mọi thay đổi sẽ được thông báo trên trang này."
+      },
+      "contact": {
+        "title": "Liên hệ",
+        "content": "Nếu bạn có câu hỏi về chính sách bảo mật của chúng tôi, vui lòng liên hệ: privacy@randomgroup.org"
+      }
+    }
+  }
+} 

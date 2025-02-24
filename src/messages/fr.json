@@ -1,0 +1,287 @@
+{
+  "metadata": {
+    "title": "Générateur de Groupes Aléatoires | Outil en Ligne Gratuit pour la Formation d'Équipes",
+    "description": "Créez instantanément des groupes équilibrés avec notre Générateur de Groupes Aléatoires gratuit. Parfait pour les salles de classe, les équipes et les événements. Simple, rapide et sans inscription requise.",
+    "keywords": "générateur de groupes aléatoires, générateur d'équipes, créateur de groupes, groupes de classe, organisateur d'équipes, créateur d'équipes aléatoires",
+    "ogTitle": "Générateur de Groupes Aléatoires | Outil en Ligne Gratuit pour la Formation d'Équipes",
+    "ogDescription": "Créez instantanément des groupes équilibrés avec notre Générateur de Groupes Aléatoires gratuit. Parfait pour les salles de classe, les équipes et les événements.",
+    "siteName": "Générateur de Groupes Aléatoires",
+    "ogImageAlt": "Interface du Générateur de Groupes Aléatoires",
+    "twitterTitle": "Générateur de Groupes Aléatoires | Outil en Ligne Gratuit pour la Formation d'Équipes",
+    "twitterDescription": "Créez instantanément des groupes équilibrés avec notre Générateur de Groupes Aléatoires gratuit. Parfait pour les salles de classe, les équipes et les événements.",
+    "authorName": "Équipe du Générateur de Groupes Aléatoires",
+    "category": "Éducation & Technologie",
+    "home": {
+      "title": "Générateur de Groupes Aléatoires - Outil en Ligne Gratuit",
+      "description": "Générateur de groupes aléatoires en ligne gratuit pour les équipes, les étudiants et les projets. Créez instantanément des groupes équilibrés avec notre outil facile à utiliser.",
+      "keywords": "générateur de groupes aléatoires, générateur d'équipes, créateur de groupes, créateur d'équipes aléatoires, organisateur de groupes de classe, générateur d'équipes de projet",
+      "ogTitle": "Générateur de Groupes Aléatoires - Outil en Ligne Gratuit",
+      "ogDescription": "Générateur de groupes aléatoires en ligne gratuit pour les équipes, les étudiants et les projets.",
+      "ogImageAlt": "Interface de l'outil Générateur de Groupes Aléatoires"
+    },
+    "about": {
+      "title": "À Propos - Générateur de Groupes Aléatoires",
+      "description": "En savoir plus sur le Générateur de Groupes Aléatoires, l'outil en ligne gratuit pour créer instantanément des groupes équilibrés.",
+      "keywords": "à propos, générateur de groupes aléatoires, formation d'équipes, mission vision, contact",
+      "ogTitle": "À Propos du Générateur de Groupes Aléatoires",
+      "ogDescription": "Découvrez comment nous vous aidons à créer des groupes parfaits.",
+      "ogImageAlt": "Équipe du Générateur de Groupes Aléatoires"
+    },
+    "legal": {
+      "title": "Informations Légales - Générateur de Groupes Aléatoires",
+      "description": "Consultez les informations légales du Générateur de Groupes Aléatoires, y compris les conditions d'utilisation et la politique de confidentialité.",
+      "keywords": "informations légales, conditions d'utilisation, politique de confidentialité, accord utilisateur",
+      "ogTitle": "Informations Légales - Générateur de Groupes Aléatoires",
+      "ogDescription": "Comprenez vos droits et responsabilités lors de l'utilisation du Générateur de Groupes Aléatoires.",
+      "ogImageAlt": "Informations Légales du Générateur de Groupes Aléatoires"
+    },
+    "terms": {
+      "title": "Conditions d'Utilisation - Générateur de Groupes Aléatoires",
+      "description": "Lisez les conditions d'utilisation du Générateur de Groupes Aléatoires et comprenez vos droits et responsabilités lors de l'utilisation de notre service.",
+      "keywords": "conditions d'utilisation, conditions de service, accord utilisateur, conditions légales",
+      "ogTitle": "Conditions d'Utilisation - Générateur de Groupes Aléatoires",
+      "ogDescription": "Comprenez les conditions d'utilisation du service du Générateur de Groupes Aléatoires.",
+      "ogImageAlt": "Conditions d'Utilisation du Générateur de Groupes Aléatoires"
+    },
+    "privacy": {
+      "title": "Politique de Confidentialité - Générateur de Groupes Aléatoires",
+      "description": "Découvrez comment le Générateur de Groupes Aléatoires protège votre vie privée et vos informations personnelles. Nous accordons une grande importance à la sécurité de vos données.",
+      "keywords": "politique de confidentialité, protection des données, informations personnelles, politique de sécurité",
+      "ogTitle": "Politique de Confidentialité - Générateur de Groupes Aléatoires",
+      "ogDescription": "Découvrez comment nous protégeons votre vie privée et vos informations personnelles.",
+      "ogImageAlt": "Politique de Confidentialité du Générateur de Groupes Aléatoires"
+    },
+    "common": {
+      "siteName": "Générateur de Groupes Aléatoires",
+      "authorName": "Équipe du Générateur de Groupes Aléatoires",
+      "category": "Technologie",
+      "twitterCreator": "@randomgroup"
+    }
+  },
+  "common": {
+    "nav": {
+      "home": "Accueil",
+      "about": "À Propos",
+      "legal": "Légal",
+      "terms": "Conditions d'Utilisation",
+      "privacy": "Confidentialité"
+    },
+    "languageSwitcher": {
+      "label": "Sélectionner la langue"
+    },
+    "alert": {
+      "close": "Fermer"
+    }
+  },
+  "groupGenerator": {
+    "input": {
+      "placeholder": "Entrez les noms (un par ligne) ou téléchargez un fichier",
+      "lineCount": "{count} lignes",
+      "uploadButton": "Télécharger un fichier",
+      "generateButton": "Générer les groupes",
+      "clearButton": "Effacer"
+    },
+    "settings": {
+      "method": {
+        "label": "Méthode de groupement",
+        "byCount": "Par nombre de groupes",
+        "bySize": "Par taille de groupe"
+      },
+      "groupCount": {
+        "label": "Nombre de groupes",
+        "description": "Les membres seront répartis équitablement. Si le total ne peut pas être divisé également, les membres supplémentaires seront attribués en commençant par le premier groupe."
+      },
+      "groupSize": {
+        "label": "Membres par groupe",
+        "description": "Le dernier groupe peut avoir moins de membres que spécifié."
+      }
+    },
+    "results": {
+      "title": "Groupes Générés",
+      "exportTxt": "Exporter en TXT",
+      "exportCsv": "Exporter en CSV",
+      "group": "Groupe {number}",
+      "members": "{count} membres",
+      "empty": "Entrez les noms (un par ligne) ou téléchargez un fichier"
+    },
+    "errors": {
+      "fileRead": "Erreur de lecture du fichier. Veuillez réessayer.",
+      "emptyInput": "Veuillez saisir une liste de noms.",
+      "tooManyGroups": "Le nombre de groupes ne peut pas dépasser le nombre total de membres.",
+      "groupSizeTooLarge": "La taille du groupe ne peut pas dépasser le nombre total de membres.",
+      "invalidInput": "Entrée invalide. Veuillez vérifier et réessayer.",
+      "duplicateItems": "Éléments en double trouvés :",
+      "invalidFileType": "Seuls les fichiers TXT peuvent être téléchargés."
+    }
+  },
+  "home": {
+    "title": "Générateur de Groupes Aléatoires",
+    "description": "Créez des Groupes Équilibrés en Secondes",
+    "subtitle": "Le Générateur de Groupes Aléatoires le plus fiable pour les éducateurs et les chefs d'équipe. Notre outil en ligne gratuit vous aide à créer instantanément des équipes équilibrées. Parfait pour les salles de classe, les ateliers et les activités d'équipe - aucune inscription requise.",
+    "instructions": {
+      "title": "Comment Utiliser le Générateur de Groupes Aléatoires",
+      "subtitle": "Étapes Simples pour des Groupes Parfaits",
+      "step1": {
+        "title": "Entrez les Noms",
+        "description": "Collez simplement votre liste ou téléchargez un fichier TXT. Notre Générateur de Groupes Aléatoires gère efficacement aussi bien les petites équipes que les grandes listes de classe."
+      },
+      "step2": {
+        "title": "Choisissez les Paramètres de Groupe",
+        "description": "Sélectionnez le nombre de groupes ou de membres par groupe. Notre Générateur de Groupes Aléatoires intelligent assure une distribution équilibrée à chaque fois."
+      },
+      "step3": {
+        "title": "Générez et Exportez",
+        "description": "Créez instantanément des groupes et exportez-les au format TXT ou CSV. Pas satisfait ? Utilisez notre Générateur de Groupes Aléatoires pour créer de nouveaux groupes en un clic."
+      }
+    },
+    "features": {
+      "title": "Pourquoi Choisir Notre Générateur de Groupes Aléatoires",
+      "subtitle": "Approuvé par les éducateurs et les professionnels du monde entier",
+      "education": {
+        "title": "Éducation et Formation",
+        "description": "Notre Générateur de Groupes Aléatoires crée sans effort des groupes d'étude équilibrés. Parfait pour les activités en classe et l'apprentissage collaboratif."
+      },
+      "professional": {
+        "title": "Équipes Professionnelles",
+        "description": "Organisez équitablement les participants aux ateliers et les équipes de projet. Le Générateur de Groupes Aléatoires assure une composition diversifiée des groupes."
+      },
+      "events": {
+        "title": "Événements et Activités",
+        "description": "Idéal pour les exercices de team building et les événements sociaux. Créez des groupes équilibrés qui favorisent la participation et l'engagement."
+      },
+      "algorithm": {
+        "title": "Distribution Intelligente",
+        "description": "L'algorithme avancé assure une distribution de groupe juste et aléatoire tout en maintenant un équilibre parfait."
+      }
+    },
+    "faq": {
+      "title": "Questions Fréquentes",
+      "subtitle": "Questions courantes sur notre Générateur de Groupes Aléatoires",
+      "how": {
+        "title": "Comment ça marche ?",
+        "answer": "Entrez votre liste, choisissez la taille ou le nombre de groupes, et laissez notre Générateur de Groupes Aléatoires faire le reste. C'est aussi simple que ça !"
+      },
+      "max": {
+        "title": "Combien de noms peut-il gérer ?",
+        "answer": "Notre Générateur de Groupes Aléatoires peut traiter jusqu'à 1000 noms, parfait pour n'importe quelle taille de groupe ou de classe."
+      },
+      "save": {
+        "title": "Puis-je sauvegarder les résultats ?",
+        "answer": "Oui, vous pouvez exporter vos groupes au format TXT ou CSV pour les partager et les consulter facilement."
+      },
+      "data": {
+        "title": "Mes données sont-elles sécurisées ?",
+        "answer": "Absolument ! Tout le traitement se fait dans votre navigateur - nous ne stockons aucune information."
+      },
+      "balance": {
+        "title": "Comment l'équilibre est-il maintenu ?",
+        "answer": "Le Générateur de Groupes Aléatoires utilise des algorithmes intelligents pour s'assurer que les groupes sont aussi équilibrés que possible tout en maintenant l'aléatoire."
+      },
+      "regenerate": {
+        "title": "Puis-je régénérer les groupes ?",
+        "answer": "Oui ! Cliquez sur régénérer à tout moment pour obtenir de nouveaux groupes aléatoires avec les mêmes paramètres."
+      }
+    }
+  },
+  "about": {
+    "title": "À Propos",
+    "mission": {
+      "title": "Notre Mission",
+      "description": "Le Générateur de Groupes Aléatoires est un outil convivial conçu pour aider les éducateurs, les chefs d'équipe et les organisateurs d'événements à créer efficacement des groupes équilibrés. Notre mission est de fournir une solution intuitive, efficace et équitable pour tous vos besoins de formation d'équipes."
+    },
+    "features": {
+      "title": "Caractéristiques Principales",
+      "list": {
+        "grouping": "Options de groupement flexibles - par nombre de groupes ou taille par groupe",
+        "interface": "Interface intuitive pour une utilisation facile",
+        "algorithm": "Algorithme de distribution juste et aléatoire",
+        "export": "Fonctionnalité d'exportation pour les résultats de groupes",
+        "security": "Sûr et privé - pas de stockage de données"
+      }
+    },
+    "contact": {
+      "title": "Contactez-nous",
+      "description": "Nous apprécions vos commentaires et nous nous engageons à améliorer notre service. Si vous avez des questions, des suggestions ou besoin d'aide, n'hésitez pas à nous contacter."
+    }
+  },
+  "legal": {
+    "title": "Informations Légales",
+    "privacy": {
+      "title": "Politique de Confidentialité",
+      "description": "Nous accordons une grande importance à votre vie privée et nous nous engageons à protéger vos informations personnelles. Veuillez consulter notre Politique de Confidentialité pour comprendre comment nous collectons, utilisons et protégeons vos données.",
+      "readMore": "Lire la Politique de Confidentialité complète"
+    },
+    "terms": {
+      "title": "Conditions d'Utilisation",
+      "description": "En utilisant notre service, vous acceptez nos Conditions d'Utilisation. Veuillez les lire attentivement pour comprendre vos droits et responsabilités.",
+      "readMore": "Lire les Conditions d'Utilisation complètes"
+    }
+  },
+  "terms": {
+    "title": "Conditions d'Utilisation",
+    "lastUpdated": "Dernière mise à jour : {date}",
+    "sections": {
+      "agreement": {
+        "title": "Accord avec les Conditions",
+        "content": "En accédant et en utilisant le Générateur de Groupes Aléatoires (randomgroup.org), vous acceptez d'être lié par ces Conditions d'Utilisation. Si vous n'êtes pas d'accord avec une partie de ces conditions, vous ne pouvez pas accéder à notre service."
+      },
+      "license": {
+        "title": "Licence d'Utilisation",
+        "content": "Le Générateur de Groupes Aléatoires vous accorde une licence personnelle, non exclusive, non transférable et limitée pour utiliser notre outil de génération de groupes en ligne pour vos besoins personnels ou professionnels. Cette licence n'inclut pas :",
+        "restrictions": "Modifier ou copier notre logiciel|Utiliser le service pour une redistribution commerciale|Tenter de décompiler ou de faire de l'ingénierie inverse sur tout logiciel contenu sur le site web|Supprimer tout avis de droit d'auteur ou autres notations de propriété"
+      },
+      "disclaimer": {
+        "title": "Avis de Non-Responsabilité",
+        "content": "Le service est fourni 'tel quel'. Le Générateur de Groupes Aléatoires ne donne aucune garantie d'aucune sorte, expresse ou implicite, et décline par la présente toutes les autres garanties, y compris, sans limitation, les garanties implicites ou conditions de qualité marchande, d'adéquation à un usage particulier ou de non-violation de propriété intellectuelle ou autre violation de droits."
+      },
+      "limitations": {
+        "title": "Limitations",
+        "content": "En aucun cas le Générateur de Groupes Aléatoires ne sera responsable des dommages (y compris, sans limitation, les dommages pour perte de données ou de profits, ou en raison d'une interruption d'activité) résultant de l'utilisation ou de l'impossibilité d'utiliser notre service, même si le Générateur de Groupes Aléatoires ou un représentant autorisé a été informé oralement ou par écrit de la possibilité de tels dommages."
+      },
+      "data": {
+        "title": "Vos Données",
+        "content": "Vous conservez tous les droits sur les données que vous entrez dans le service. Nous ne stockons pas, ne traitons pas et ne transmettons pas vos données à des serveurs. Toutes les opérations de génération de groupes se déroulent localement dans votre navigateur."
+      },
+      "modifications": {
+        "title": "Modifications",
+        "content": "Le Générateur de Groupes Aléatoires se réserve le droit de modifier ou de remplacer ces Conditions d'Utilisation à tout moment. Nous vous informerons de tout changement en publiant les nouvelles Conditions d'Utilisation sur cette page. Votre utilisation continue du service après de tels changements constitue votre acceptation des nouvelles Conditions d'Utilisation."
+      },
+      "contact": {
+        "title": "Contactez-nous",
+        "content": "Si vous avez des questions concernant ces Conditions d'Utilisation, veuillez nous contacter à support@randomgroup.org."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Politique de Confidentialité",
+    "lastUpdated": "Dernière mise à jour : {date}",
+    "sections": {
+      "intro": {
+        "title": "Introduction",
+        "content": "Au Générateur de Groupes Aléatoires (randomgroup.org), nous prenons votre vie privée au sérieux. Cette Politique de Confidentialité explique comment nous gérons vos informations lorsque vous utilisez notre outil de génération de groupes. Nous nous engageons à protéger votre vie privée et à maintenir la sécurité de vos informations personnelles."
+      },
+      "noCollect": {
+        "title": "Informations que Nous Ne Collectons Pas",
+        "content": "Notre service est conçu en tenant compte de la confidentialité. Nous ne :",
+        "list": "Collectons pas d'informations personnelles|Stockons pas les noms ou données que vous entrez|Suivons pas votre activité sur le site|Partageons pas d'informations avec des tiers"
+      },
+      "howItWorks": {
+        "title": "Comment Ça Fonctionne",
+        "content": "Toutes les opérations de génération de groupes se déroulent directement dans votre navigateur. Les noms et données que vous entrez sont traités localement et ne sont jamais transmis à nos serveurs. Une fois que vous fermez ou actualisez la page, les données sont définitivement supprimées."
+      },
+      "technical": {
+        "title": "Données Techniques",
+        "content": "Nous collectons des données techniques minimales requises pour le bon fonctionnement du site web, notamment :",
+        "list": "Informations de base du navigateur|Préférences de langue|Données de performance du site|Journaux d'erreurs techniques"
+      },
+      "updates": {
+        "title": "Mises à Jour de la Politique de Confidentialité",
+        "content": "Nous pouvons mettre à jour cette Politique de Confidentialité de temps en temps. Tout changement sera publié sur cette page avec une date de révision mise à jour. Nous vous encourageons à consulter régulièrement cette Politique de Confidentialité."
+      },
+      "contact": {
+        "title": "Contactez-nous",
+        "content": "Si vous avez des questions concernant notre Politique de Confidentialité, veuillez nous contacter à support@randomgroup.org."
+      }
+    }
+  }
+} 

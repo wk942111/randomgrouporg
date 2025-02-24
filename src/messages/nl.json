@@ -1,0 +1,281 @@
+{
+  "metadata": {
+    "title": "Willekeurige Groepsgenerator | Gratis Online Tool voor Teamindeling",
+    "description": "Maak direct gebalanceerde groepen met onze gratis Willekeurige Groepsgenerator. Perfect voor klaslokalen, teams en evenementen. Eenvoudig, snel en geen registratie vereist.",
+    "keywords": "willekeurige groepsgenerator, teamgenerator, groepsmaker, klasgroepen, teamorganisator, willekeurige teammaker",
+    "ogTitle": "Willekeurige Groepsgenerator | Gratis Online Tool voor Teamindeling",
+    "ogDescription": "Maak direct gebalanceerde groepen met onze gratis Willekeurige Groepsgenerator. Perfect voor klaslokalen, teams en evenementen.",
+    "siteName": "Willekeurige Groepsgenerator",
+    "ogImageAlt": "Willekeurige Groepsgenerator Interface",
+    "twitterTitle": "Willekeurige Groepsgenerator | Gratis Online Tool voor Teamindeling",
+    "twitterDescription": "Maak direct gebalanceerde groepen met onze gratis Willekeurige Groepsgenerator. Perfect voor klaslokalen, teams en evenementen.",
+    "authorName": "Willekeurige Groepsgenerator Team",
+    "category": "Onderwijs & Technologie",
+    "home": {
+      "title": "Willekeurige Groepsgenerator - Gratis Online Tool voor Teamindeling",
+      "description": "Gratis online willekeurige groepsgenerator voor teams, studenten en projecten. Maak direct gebalanceerde groepen met onze gebruiksvriendelijke tool.",
+      "keywords": "willekeurige groepsgenerator, teamgenerator, groepsmaker, willekeurige teammaker, klasgroeporganisator, projectteamgenerator",
+      "ogTitle": "Willekeurige Groepsgenerator - Gratis Online Tool voor Teamindeling",
+      "ogDescription": "Gratis online willekeurige groepsgenerator voor teams, studenten en projecten.",
+      "ogImageAlt": "Willekeurige Groepsgenerator Tool Interface"
+    },
+    "about": {
+      "title": "Over Ons - Willekeurige Groepsgenerator",
+      "description": "Leer meer over het team achter de Willekeurige Groepsgenerator en onze missie om groepsvorming te vereenvoudigen.",
+      "keywords": "over ons, missie, team, groepsgenerator, willekeurige groepen",
+      "ogTitle": "Over de Willekeurige Groepsgenerator",
+      "ogDescription": "Leer meer over onze missie en het team achter de Willekeurige Groepsgenerator.",
+      "ogImageAlt": "Willekeurige Groepsgenerator Team"
+    },
+    "legal": {
+      "title": "Juridische Informatie - Willekeurige Groepsgenerator",
+      "description": "Juridische informatie, gebruiksvoorwaarden en privacybeleid voor de Willekeurige Groepsgenerator.",
+      "keywords": "juridisch, voorwaarden, privacy, gebruiksvoorwaarden, beleid",
+      "ogTitle": "Juridische Informatie | Willekeurige Groepsgenerator",
+      "ogDescription": "Bekijk onze juridische informatie, gebruiksvoorwaarden en privacybeleid.",
+      "ogImageAlt": "Juridische Documenten"
+    },
+    "terms": {
+      "title": "Gebruiksvoorwaarden - Willekeurige Groepsgenerator",
+      "description": "Lees onze gebruiksvoorwaarden voor de Willekeurige Groepsgenerator.",
+      "keywords": "gebruiksvoorwaarden, voorwaarden, juridisch, overeenkomst",
+      "ogTitle": "Gebruiksvoorwaarden | Willekeurige Groepsgenerator",
+      "ogDescription": "Onze gebruiksvoorwaarden voor de Willekeurige Groepsgenerator.",
+      "ogImageAlt": "Gebruiksvoorwaarden Document"
+    },
+    "privacy": {
+      "title": "Privacybeleid - Willekeurige Groepsgenerator",
+      "description": "Ons privacybeleid legt uit hoe we uw gegevens beschermen bij het gebruik van de Willekeurige Groepsgenerator.",
+      "keywords": "privacybeleid, gegevensbescherming, privacy, beveiliging",
+      "ogTitle": "Privacybeleid | Willekeurige Groepsgenerator",
+      "ogDescription": "Lees hoe we uw privacy beschermen bij het gebruik van onze service.",
+      "ogImageAlt": "Privacybeleid Document"
+    }
+  },
+  "common": {
+    "nav": {
+      "home": "Home",
+      "about": "Over Ons",
+      "legal": "Juridisch",
+      "terms": "Voorwaarden",
+      "privacy": "Privacy"
+    },
+    "languageSwitcher": {
+      "label": "Kies taal"
+    },
+    "alert": {
+      "close": "Sluiten"
+    }
+  },
+  "groupGenerator": {
+    "input": {
+      "placeholder": "Voer namen in (één per regel)",
+      "generateButton": "Genereer Groepen",
+      "uploadButton": "Upload Bestand",
+      "clearButton": "Wissen",
+      "lineCount": "{count} regels"
+    },
+    "settings": {
+      "method": {
+        "label": "Groeperingsmethode",
+        "byCount": "Op aantal groepen",
+        "bySize": "Op groepsgrootte"
+      },
+      "groupCount": {
+        "label": "Aantal groepen",
+        "description": "Kies het gewenste aantal groepen"
+      },
+      "groupSize": {
+        "label": "Groepsgrootte",
+        "description": "Kies het gewenste aantal personen per groep"
+      }
+    },
+    "results": {
+      "title": "Resultaten",
+      "empty": "Nog geen groepen gegenereerd",
+      "group": "Groep {number}",
+      "members": "{count} leden",
+      "exportTxt": "Exporteer als TXT",
+      "exportCsv": "Exporteer als CSV"
+    },
+    "errors": {
+      "fileRead": "Fout bij het lezen van het bestand. Probeer het opnieuw.",
+      "emptyInput": "Voer een lijst met namen in.",
+      "tooManyGroups": "Het aantal groepen kan niet groter zijn dan het totaal aantal leden.",
+      "groupSizeTooLarge": "De groepsgrootte kan niet groter zijn dan het totaal aantal leden.",
+      "invalidInput": "Ongeldige invoer. Controleer en probeer het opnieuw.",
+      "duplicateItems": "Dubbele items gevonden:",
+      "invalidFileType": "Alleen TXT-bestanden kunnen worden geüpload."
+    }
+  },
+  "home": {
+    "title": "Willekeurige Groepsgenerator",
+    "description": "Maak willekeurige groepen in seconden",
+    "subtitle": "De meest vertrouwde willekeurige groepsgenerator voor docenten en teamleiders. Gebruik onze gratis online tool om direct gebalanceerde teams te maken. Perfect voor klaslokalen, workshops en teamevenementen - geen registratie vereist.",
+    "instructions": {
+      "title": "Hoe gebruik je de Willekeurige Groepsgenerator",
+      "subtitle": "Snel, eenvoudig en effectief",
+      "step1": {
+        "title": "Voer de lijst in",
+        "description": "Plak gewoon je lijst of upload een bestand. Onze willekeurige groepsgenerator ondersteunt TXT- en CSV-formaten, perfect voor grote teams of klaslijsten."
+      },
+      "step2": {
+        "title": "Stel groepsparameters in",
+        "description": "Kies de gewenste grootte of specificeer het aantal groepen. Ons slimme algoritme zorgt elke keer voor een gebalanceerde willekeurige groepsverdeling."
+      },
+      "step3": {
+        "title": "Genereer en deel",
+        "description": "Maak direct willekeurige groepen en exporteer in je gewenste formaat. Deel de resultaten eenvoudig met je team of studenten. Niet tevreden? Genereer nieuwe groepen met één klik."
+      }
+    },
+    "features": {
+      "title": "Functies van de Willekeurige Groepsgenerator",
+      "subtitle": "Vertrouwd door duizenden professionals wereldwijd",
+      "education": {
+        "title": "Onderwijs & Training",
+        "description": "Maak eenvoudig gebalanceerde studiegroepen en projectteams. Onze willekeurige groepsgenerator is de eerste keuze voor docenten om een samenwerkende leeromgeving te creëren."
+      },
+      "professional": {
+        "title": "Professionele Teams",
+        "description": "Vereenvoudig teamvorming voor workshops, trainingssessies en projecttoewijzingen. Genereer willekeurige groepen die diverse perspectieven en gelijke participatie bevorderen."
+      },
+      "events": {
+        "title": "Evenementen & Projecten",
+        "description": "Perfect voor het organiseren van teambuilding-activiteiten, sportevenementen en sociale bijeenkomsten. Onze willekeurige groepsgenerator zorgt voor eerlijke en onpartijdige teamtoewijzingen."
+      },
+      "algorithm": {
+        "title": "Eerlijk Verdelingsalgoritme",
+        "description": "Onze geavanceerde willekeurige groepsgenerator gebruikt complexe algoritmen om echt willekeurige en gebalanceerde groepstoewijzingen in elke situatie te garanderen."
+      }
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "subtitle": "Antwoorden op veelvoorkomende vragen over de Willekeurige Groepsgenerator",
+      "how": {
+        "title": "Hoe gebruik ik deze tool?",
+        "answer": "Voer of plak gewoon je lijst in, kies het gewenste aantal groepen of groepsgrootte en klik op de genereerknop. Zo eenvoudig is het!"
+      },
+      "max": {
+        "title": "Hoeveel personen worden ondersteund?",
+        "answer": "Onze tool kan lijsten tot 1000 personen verwerken, geschikt voor teams en klassen van elke grootte."
+      },
+      "save": {
+        "title": "Kan ik de resultaten opslaan?",
+        "answer": "Ja, je kunt de resultaten exporteren in verschillende formaten, waaronder PDF, Excel en tekstbestanden."
+      },
+      "data": {
+        "title": "Zijn de gegevens veilig?",
+        "answer": "We geven om je privacy. Alle verwerking gebeurt in je browser en we slaan geen persoonlijke informatie op."
+      },
+      "balance": {
+        "title": "Hoe wordt balans gegarandeerd?",
+        "answer": "We gebruiken geavanceerde algoritmen om ervoor te zorgen dat groepen zo gelijk mogelijk zijn in aantal, terwijl we de willekeurigheid behouden."
+      },
+      "regenerate": {
+        "title": "Kan ik de groepen opnieuw genereren?",
+        "answer": "Zeker! Je kunt op elk moment op de regenereerknop klikken om nieuwe willekeurige groepen te krijgen."
+      }
+    }
+  },
+  "about": {
+    "title": "Over Ons",
+    "mission": {
+      "title": "Onze Missie",
+      "description": "We streven ernaar om de beste willekeurige groepsgenerator tool te bieden die groepsvorming vereenvoudigt en eerlijke, gebalanceerde teams creëert."
+    },
+    "features": {
+      "title": "Onze Kenmerken",
+      "list": {
+        "grouping": "Geavanceerde willekeurige groepering",
+        "interface": "Intuïtieve gebruikersinterface",
+        "algorithm": "Eerlijk verdelingsalgoritme",
+        "export": "Veelzijdige exportopties",
+        "security": "Privacy-gerichte verwerking"
+      }
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Heeft u vragen of suggesties? Aarzel niet om contact met ons op te nemen."
+    }
+  },
+  "legal": {
+    "title": "Juridische Informatie",
+    "privacy": {
+      "title": "Privacybeleid",
+      "description": "Lees ons privacybeleid om te begrijpen hoe we uw gegevens beschermen.",
+      "readMore": "Meer over privacy"
+    },
+    "terms": {
+      "title": "Gebruiksvoorwaarden",
+      "description": "Bekijk onze gebruiksvoorwaarden voor informatie over het gebruik van onze service.",
+      "readMore": "Meer over voorwaarden"
+    }
+  },
+  "terms": {
+    "title": "Gebruiksvoorwaarden",
+    "lastUpdated": "Laatst bijgewerkt: {date}",
+    "sections": {
+      "agreement": {
+        "title": "Gebruiksovereenkomst",
+        "content": "Door deze website te gebruiken, gaat u akkoord met deze voorwaarden. Als u niet akkoord gaat met deze voorwaarden, gebruik deze website dan niet."
+      },
+      "license": {
+        "title": "Gebruikslicentie",
+        "content": "We verlenen u een beperkte, niet-exclusieve, niet-overdraagbare licentie om onze service te gebruiken.",
+        "restrictions": "Reverse engineering|Kopiëren of wijzigen van software|Gebruik voor illegale doeleinden|Doorverkoop van de service"
+      },
+      "disclaimer": {
+        "title": "Disclaimer",
+        "content": "Deze service wordt 'as is' geleverd, zonder enige garantie."
+      },
+      "limitations": {
+        "title": "Aansprakelijkheidsbeperking",
+        "content": "Wij zijn niet aansprakelijk voor enige schade die voortvloeit uit het gebruik van onze service."
+      },
+      "data": {
+        "title": "Gegevensgebruik",
+        "content": "We verwerken alleen gegevens die nodig zijn voor de functionaliteit van de service."
+      },
+      "modifications": {
+        "title": "Wijzigingen",
+        "content": "We behouden ons het recht voor om deze voorwaarden op elk moment te wijzigen."
+      },
+      "contact": {
+        "title": "Contact",
+        "content": "Als u vragen heeft over deze gebruiksvoorwaarden, neem dan contact met ons op via support@randomgroup.org."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Privacybeleid",
+    "lastUpdated": "Laatst bijgewerkt: {date}",
+    "sections": {
+      "intro": {
+        "title": "Introductie",
+        "content": "Uw privacy is belangrijk voor ons. Dit beleid legt uit hoe we omgaan met uw gegevens."
+      },
+      "noCollect": {
+        "title": "Geen Gegevensverzameling",
+        "content": "We verzamelen geen persoonlijke gegevens van onze gebruikers.",
+        "list": "Geen persoonlijke identificatie|Geen tracking cookies|Geen gebruikersprofielen|Geen gegevensopslag"
+      },
+      "howItWorks": {
+        "title": "Hoe Het Werkt",
+        "content": "Alle verwerking gebeurt lokaal in uw browser. We slaan geen gegevens op onze servers op."
+      },
+      "technical": {
+        "title": "Technische Details",
+        "content": "We gebruiken alleen essentiële technische functionaliteit.",
+        "list": "Lokale browserverwerking|Geen permanente opslag|Geen tracking|Geen analytics"
+      },
+      "updates": {
+        "title": "Updates",
+        "content": "We kunnen dit privacybeleid van tijd tot tijd bijwerken. Controleer regelmatig op wijzigingen."
+      },
+      "contact": {
+        "title": "Contact",
+        "content": "Voor privacygerelateerde vragen kunt u contact met ons opnemen via support@randomgroup.org."
+      }
+    }
+  }
+} 

@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "title": "Slumpmässig Gruppgenerator | Gratis Online Verktyg för Teamindelning",
+    "description": "Skapa balanserade grupper direkt med Slumpmässig Gruppgenerator. Perfekt för klassrum, team och evenemang. Enkelt, snabbt och kräver ingen registrering.",
+    "keywords": "slumpmässig gruppgenerator, teamgenerator, gruppindelning, klassrumsgrupper, teamorganisatör, slumpmässig teamgenerator",
+    "ogTitle": "Slumpmässig Gruppgenerator | Gratis Online Verktyg för Teamindelning",
+    "ogDescription": "Skapa balanserade grupper direkt med Slumpmässig Gruppgenerator. Perfekt för klassrum, team och evenemang.",
+    "siteName": "Slumpmässig Gruppgenerator",
+    "ogImageAlt": "Slumpmässig Gruppgenerator Gränssnitt",
+    "twitterTitle": "Slumpmässig Gruppgenerator | Gratis Online Verktyg för Teamindelning",
+    "twitterDescription": "Skapa balanserade grupper direkt med Slumpmässig Gruppgenerator. Perfekt för klassrum, team och evenemang.",
+    "authorName": "Slumpmässig Gruppgenerator Team",
+    "category": "Utbildning och Teknik",
+    "home": {
+      "title": "Slumpmässig Gruppgenerator - Gratis Online Verktyg för Teamindelning",
+      "description": "Gratis online slumpmässig gruppgenerator för team, studenter och projekt. Skapa balanserade grupper direkt med vårt användarvänliga verktyg.",
+      "keywords": "slumpmässig gruppgenerator, teamgenerator, gruppskapare, slumpmässig teamskapare, klassrumsgrupporganisatör, projektteamgenerator",
+      "ogTitle": "Slumpmässig Gruppgenerator - Gratis Online Verktyg för Teamindelning",
+      "ogDescription": "Gratis online slumpmässig gruppgenerator för team, studenter och projekt.",
+      "ogImageAlt": "Slumpmässig Gruppgenerator Verktyg Gränssnitt"
+    },
+    "about": {
+      "title": "Om Oss - Slumpmässig Gruppgenerator",
+      "description": "Lär dig mer om Slumpmässig Gruppgenerator, varför vi skapade det och hur du använder det",
+      "keywords": "om oss, slumpmässig gruppgenerator, historia, team, uppdrag",
+      "ogTitle": "Om Oss - Slumpmässig Gruppgenerator",
+      "ogDescription": "Lär dig mer om Slumpmässig Gruppgenerator",
+      "ogImageAlt": "Slumpmässig Gruppgenerator Team"
+    },
+    "legal": {
+      "title": "Juridisk Information - Slumpmässig Gruppgenerator",
+      "description": "Viktig juridisk information om användningen av Slumpmässig Gruppgenerator",
+      "keywords": "juridiska villkor, integritetspolicy, användarvillkor",
+      "ogTitle": "Juridisk Information - Slumpmässig Gruppgenerator",
+      "ogDescription": "Viktig juridisk information om våra tjänster",
+      "ogImageAlt": "Slumpmässig Gruppgenerator Juridisk Information"
+    },
+    "terms": {
+      "title": "Användarvillkor - Slumpmässig Gruppgenerator",
+      "description": "Villkor och bestämmelser för användning av Slumpmässig Gruppgenerator",
+      "keywords": "användarvillkor, villkor, avtal, regler, bestämmelser",
+      "ogTitle": "Användarvillkor - Slumpmässig Gruppgenerator",
+      "ogDescription": "Villkor och bestämmelser för användning av våra tjänster",
+      "ogImageAlt": "Slumpmässig Gruppgenerator Användarvillkor"
+    },
+    "privacy": {
+      "title": "Integritetspolicy - Slumpmässig Gruppgenerator",
+      "description": "Hur vi skyddar och använder din data",
+      "keywords": "integritetspolicy, integritet, säkerhet, GDPR",
+      "ogTitle": "Integritetspolicy - Slumpmässig Gruppgenerator",
+      "ogDescription": "Upptäck hur vi skyddar din data",
+      "ogImageAlt": "Slumpmässig Gruppgenerator Integritetspolicy"
+    }
+  },
+  "common": {
+    "nav": {
+      "home": "Hem",
+      "about": "Om Oss",
+      "legal": "Juridiskt",
+      "terms": "Villkor",
+      "privacy": "Integritet"
+    },
+    "languageSwitcher": {
+      "label": "Välj språk"
+    },
+    "alert": {
+      "close": "Stäng",
+      "success": "Åtgärden lyckades",
+      "error": "Ett fel uppstod",
+      "warning": "Varning",
+      "info": "Information"
+    },
+    "siteName": "Slumpmässig Gruppgenerator",
+    "authorName": "Slumpmässig Gruppgenerator Team",
+    "category": "Utbildning och Teknik",
+    "twitterCreator": "@randomgroupgen"
+  },
+  "groupGenerator": {
+    "input": {
+      "placeholder": "Skriv in din lista här (ett namn per rad)",
+      "generateButton": "Generera Grupper",
+      "regenerateButton": "Generera Om",
+      "copyButton": "Kopiera",
+      "uploadButton": "Ladda Upp Fil",
+      "clearButton": "Rensa",
+      "lineCount": "{count} rader"
+    },
+    "settings": {
+      "method": {
+        "label": "Grupperingsmetod",
+        "byCount": "Efter antal grupper",
+        "bySize": "Efter gruppstorlek"
+      },
+      "groupCount": {
+        "label": "Antal grupper",
+        "description": "Välj önskat antal grupper"
+      },
+      "groupSize": {
+        "label": "Gruppstorlek",
+        "description": "Välj antal personer per grupp"
+      }
+    },
+    "results": {
+      "title": "Resultat",
+      "empty": "Resultaten visas här",
+      "group": "Grupp {number}",
+      "members": "{count} medlemmar",
+      "exportTxt": "Exportera TXT",
+      "exportCsv": "Exportera CSV"
+    },
+    "errors": {
+      "fileRead": "Fel vid läsning av fil. Försök igen.",
+      "emptyInput": "Ange en lista med namn.",
+      "tooManyGroups": "Antalet grupper kan inte överstiga totalt antal medlemmar.",
+      "groupSizeTooLarge": "Gruppstorleken kan inte överstiga totalt antal medlemmar.",
+      "invalidInput": "Ogiltig inmatning. Kontrollera och försök igen.",
+      "duplicateItems": "Dubbletter hittades:",
+      "invalidFileType": "Endast TXT-filer kan laddas upp."
+    }
+  },
+  "home": {
+    "title": "Slumpmässig Gruppgenerator",
+    "description": "Skapa slumpmässiga grupper på sekunder",
+    "subtitle": "Den mest betrodda slumpmässiga gruppgeneratorn för lärare och teamledare. Använd vårt kostnadsfria onlineverktyg för att skapa balanserade team direkt. Perfekt för klassrum, workshops och teambuilding aktiviteter - ingen registrering krävs.",
+    "instructions": {
+      "title": "Hur du använder Slumpmässig Gruppgenerator",
+      "subtitle": "Snabbt, enkelt och effektivt",
+      "step1": {
+        "title": "Ange lista",
+        "description": "Klistra helt enkelt in din lista eller ladda upp en fil. Slumpmässig Gruppgenerator stöder TXT och CSV format, perfekt för stora team eller klasslistor."
+      },
+      "step2": {
+        "title": "Ställ in gruppparametrar",
+        "description": "Välj önskad gruppstorlek eller ange antal grupper. Vår smarta algoritm säkerställer en balanserad slumpmässig fördelning varje gång."
+      },
+      "step3": {
+        "title": "Generera och dela",
+        "description": "Skapa slumpmässiga grupper direkt och exportera i önskat format. Dela enkelt resultaten med ditt team eller elever. Inte nöjd med resultatet? Generera nya grupper med ett enda klick."
+      }
+    },
+    "features": {
+      "title": "Slumpmässig Gruppgenerator Funktioner",
+      "subtitle": "Betrodd av tusentals världen över",
+      "education": {
+        "title": "Utbildning och Träning",
+        "description": "Skapa balanserade studiegrupper och projektteam enkelt. Slumpmässig Gruppgenerator är förstahandsvalet för lärare för att skapa en samarbetsinriktad lärmiljö."
+      },
+      "professional": {
+        "title": "Professionella Team",
+        "description": "Förenkla teambildning för workshops, utbildningskurser och projektuppgifter. Skapa slumpmässiga grupper som främjar olika perspektiv och jämnt deltagande."
+      },
+      "events": {
+        "title": "Evenemang och Projekt",
+        "description": "Perfekt för att organisera teambuilding aktiviteter, sportevenemang och sociala sammankomster. Slumpmässig Gruppgenerator säkerställer rättvisa och opartiska teamtilldelningar."
+      },
+      "algorithm": {
+        "title": "Rättvis Fördelningsalgoritm",
+        "description": "Vår avancerade Slumpmässiga Gruppgenerator använder komplexa algoritmer för att säkerställa en verkligt slumpmässig och balanserad gruppfördelning varje gång."
+      }
+    },
+    "faq": {
+      "title": "Vanliga Frågor",
+      "subtitle": "Vanliga frågor om Slumpmässig Gruppgenerator",
+      "how": {
+        "title": "Hur använder jag detta verktyg?",
+        "answer": "Skriv eller klistra in din lista, välj önskat antal grupper eller personer per grupp, och klicka på generera-knappen. Så enkelt är det!"
+      },
+      "max": {
+        "title": "Hur många personer stöder det?",
+        "answer": "Vårt verktyg kan hantera listor upp till 1000 personer, lämpligt för team och klasser av alla storlekar."
+      },
+      "save": {
+        "title": "Kan jag spara resultaten?",
+        "answer": "Ja, du kan exportera resultaten i olika format, inklusive PDF, Excel och textfiler."
+      },
+      "data": {
+        "title": "Är min data säker?",
+        "answer": "Vi värdesätter din integritet. All bearbetning sker i din webbläsare och vi lagrar ingen personlig information."
+      },
+      "balance": {
+        "title": "Hur säkerställs gruppbalansen?",
+        "answer": "Vi använder avancerade algoritmer för att säkerställa att gruppstorlekarna är så jämna som möjligt, samtidigt som slumpmässigheten bibehålls."
+      },
+      "regenerate": {
+        "title": "Kan jag generera om grupperna?",
+        "answer": "Absolut! Du kan klicka på generera-knappen när som helst för att skapa nya slumpmässiga grupper."
+      }
+    },
+    "benefits": {
+      "title": "Fördelar med Slumpmässig Gruppgenerator",
+      "list": "Snabb och enkel att använda|Helt gratis utan registrering|Säker och privat datahantering|Flexibla grupperingsalternativ|Exportera resultat i olika format|Perfekt för alla gruppstorlekar"
+    },
+    "testimonials": {
+      "title": "Vad våra användare säger",
+      "list": [
+        {
+          "text": "Ett fantastiskt verktyg som sparar mig massor av tid i klassrummet!",
+          "author": "Maria L., Lärare"
+        },
+        {
+          "text": "Enkel att använda och perfekt för våra teambuilding-aktiviteter.",
+          "author": "Johan S., HR-chef"
+        },
+        {
+          "text": "Den bästa gruppgeneratorn jag har hittat. Rekommenderas starkt!",
+          "author": "Anna K., Evenemangsplanerare"
+        }
+      ]
+    }
+  },
+  "about": {
+    "title": "Om Oss",
+    "mission": {
+      "title": "Vårt Uppdrag",
+      "description": "Slumpmässig Gruppgenerator är ett användarvänligt verktyg som hjälper lärare, teamledare och evenemangsarrangörer att effektivt skapa balanserade grupper. Vårt uppdrag är att tillhandahålla en intuitiv, effektiv och rättvis lösning för alla teambildningsbehov."
+    },
+    "features": {
+      "title": "Huvudfunktioner",
+      "list": {
+        "grouping": "Flexibla grupperingsalternativ - efter antal grupper eller gruppstorlek",
+        "interface": "Intuitivt och användarvänligt gränssnitt",
+        "algorithm": "Rättvis och slumpmässig fördelningsalgoritm",
+        "export": "Funktioner för resultatexport",
+        "security": "Säkert och privat - ingen data lagras"
+      }
+    },
+    "contact": {
+      "title": "Kontakta Oss",
+      "description": "Vi värdesätter din feedback och strävar efter att förbättra vår tjänst. Om du har frågor, förslag eller behöver hjälp, tveka inte att kontakta oss."
+    }
+  },
+  "legal": {
+    "title": "Juridisk information",
+    "content": "Viktig juridisk information om våra tjänster.",
+    "privacy": {
+      "title": "Integritetspolicy",
+      "description": "Läs om hur vi skyddar din personliga information och data.",
+      "readMore": "Läs mer om vår integritetspolicy"
+    },
+    "terms": {
+      "title": "Användarvillkor",
+      "description": "Läs om villkoren för användning av vår tjänst.",
+      "readMore": "Läs mer om våra användarvillkor"
+    }
+  },
+  "terms": {
+    "title": "Användarvillkor",
+    "lastUpdated": "Senast uppdaterad: {date}",
+    "sections": {
+      "agreement": {
+        "title": "Användaravtal",
+        "content": "Genom att använda denna tjänst godkänner du dessa villkor."
+      },
+      "license": {
+        "title": "Licens",
+        "content": "Vi beviljar dig en begränsad licens att använda tjänsten.",
+        "restrictions": "Ingen kommersiell användning|Ingen vidaredistribution|Ingen modifiering av tjänsten|Inget missbruk av tjänsten|Ingen olaglig användning"
+      },
+      "disclaimer": {
+        "title": "Ansvarsfriskrivning",
+        "content": "Tjänsten tillhandahålls i befintligt skick utan garantier."
+      },
+      "limitations": {
+        "title": "Ansvarsbegränsning",
+        "content": "Vi är inte ansvariga för eventuella skador som uppstår vid användning."
+      },
+      "data": {
+        "title": "Datahantering",
+        "content": "Vi respekterar din integritet och hanterar data ansvarsfullt."
+      },
+      "modifications": {
+        "title": "Ändringar",
+        "content": "Vi förbehåller oss rätten att ändra dessa villkor när som helst."
+      },
+      "contact": {
+        "title": "Kontakt",
+        "content": "Vid frågor om dessa villkor, kontakta oss."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Integritetspolicy",
+    "lastUpdated": "Senast uppdaterad: {date}",
+    "sections": {
+      "intro": {
+        "title": "Introduktion",
+        "content": "Din integritet är viktig för oss. Denna policy förklarar hur vi hanterar din data."
+      },
+      "noCollect": {
+        "title": "Ingen datainsamling",
+        "content": "Vi samlar inte in någon personlig information.",
+        "list": "Inga personuppgifter|Ingen spårning|Inga cookies|Ingen användarprofilering|Ingen datalagring"
+      },
+      "howItWorks": {
+        "title": "Hur det fungerar",
+        "content": "All databehandling sker lokalt i din webbläsare."
+      },
+      "technical": {
+        "title": "Teknisk information",
+        "content": "Vi använder modern teknik för att skydda din data.",
+        "list": "Lokal databehandling|Säker HTTPS-anslutning|Ingen serverlagring|Krypterad dataöverföring|Automatisk datarensning"
+      },
+      "dataCollection": {
+        "title": "Datainsamling",
+        "content": "Vi samlar endast in anonym användningsstatistik.",
+        "details": "Sidvisningar|Användningsmönster|Prestandamätningar|Felrapporter|Användarfeedback"
+      },
+      "dataUse": {
+        "title": "Dataanvändning",
+        "content": "Vi använder data endast för att förbättra tjänsten.",
+        "purposes": "Förbättra användarupplevelsen|Optimera prestanda|Åtgärda fel|Utveckla nya funktioner|Analysera användningsmönster"
+      },
+      "cookies": {
+        "title": "Cookies",
+        "content": "Vi använder minimalt med cookies för grundläggande funktionalitet.",
+        "types": "Nödvändiga cookies|Funktionella cookies|Prestandacookies|Analytiska cookies|Temporära cookies"
+      },
+      "security": {
+        "title": "Säkerhet",
+        "content": "Vi tar säkerhet på allvar och skyddar din data.",
+        "measures": "Krypterad överföring|Säker databehandling|Regelbundna säkerhetsuppdateringar|Åtkomstkontroll|Säkerhetsövervakning"
+      },
+      "userRights": {
+        "title": "Dina rättigheter",
+        "content": "Du har full kontroll över din data.",
+        "rights": "Rätt till information|Rätt till radering|Rätt till dataportabilitet|Rätt till begränsning|Rätt till invändning"
+      },
+      "updates": {
+        "title": "Uppdateringar av policy",
+        "content": "Vi kan uppdatera denna policy och meddelar dig om viktiga ändringar."
+      },
+      "contact": {
+        "title": "Kontakta oss",
+        "content": "Om du har frågor om vår integritetspolicy, kontakta oss."
+      }
+    }
+  }
+} 

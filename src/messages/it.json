@@ -1,0 +1,348 @@
+{
+  "metadata": {
+    "title": "Generatore di Gruppi Casuali | Strumento Gratuito per la Formazione di Team Online",
+    "description": "Crea gruppi bilanciati istantaneamente con il Generatore di Gruppi Casuali. Perfetto per classi, team ed eventi. Semplice, veloce e non richiede registrazione.",
+    "keywords": "generatore di gruppi casuali, generatore di team, formazione gruppi, gruppi classe, organizzatore team, generatore casuale di team",
+    "ogTitle": "Generatore di Gruppi Casuali | Strumento Gratuito per la Formazione di Team Online",
+    "ogDescription": "Crea gruppi bilanciati istantaneamente con il Generatore di Gruppi Casuali. Perfetto per classi, team ed eventi.",
+    "siteName": "Generatore di Gruppi Casuali",
+    "ogImageAlt": "Interfaccia del Generatore di Gruppi Casuali",
+    "twitterTitle": "Generatore di Gruppi Casuali | Strumento Gratuito per la Formazione di Team Online",
+    "twitterDescription": "Crea gruppi bilanciati istantaneamente con il Generatore di Gruppi Casuali. Perfetto per classi, team ed eventi.",
+    "authorName": "Team del Generatore di Gruppi Casuali",
+    "category": "Istruzione e Tecnologia",
+    "home": {
+      "title": "Generatore di Gruppi Casuali - Strumento Gratuito per la Formazione di Team Online",
+      "description": "Generatore di gruppi casuali online gratuito per team, studenti e progetti. Crea gruppi bilanciati istantaneamente con il nostro strumento facile da usare.",
+      "keywords": "generatore di gruppi casuali, generatore di team, creatore di gruppi, creatore di team casuali, organizzatore di gruppi classe, generatore di team di progetto",
+      "ogTitle": "Generatore di Gruppi Casuali - Strumento Gratuito per la Formazione di Team Online",
+      "ogDescription": "Generatore di gruppi casuali online gratuito per team, studenti e progetti.",
+      "ogImageAlt": "Interfaccia dello Strumento Generatore di Gruppi Casuali"
+    },
+    "about": {
+      "title": "Chi Siamo - Generatore di Gruppi Casuali",
+      "description": "Scopri di più sul Generatore di Gruppi Casuali, perché lo abbiamo creato e come utilizzarlo",
+      "keywords": "chi siamo, generatore di gruppi casuali, storia, team, missione",
+      "ogTitle": "Chi Siamo - Generatore di Gruppi Casuali",
+      "ogDescription": "Scopri di più sul Generatore di Gruppi Casuali",
+      "ogImageAlt": "Team del Generatore di Gruppi Casuali"
+    },
+    "legal": {
+      "title": "Informazioni Legali - Generatore di Gruppi Casuali",
+      "description": "Informazioni legali importanti sull'utilizzo del Generatore di Gruppi Casuali",
+      "keywords": "termini legali, informativa sulla privacy, termini di utilizzo",
+      "ogTitle": "Informazioni Legali - Generatore di Gruppi Casuali",
+      "ogDescription": "Informazioni legali importanti sui nostri servizi",
+      "ogImageAlt": "Generatore di Gruppi Casuali Informazioni Legali"
+    },
+    "terms": {
+      "title": "Termini di Utilizzo - Generatore di Gruppi Casuali",
+      "description": "Termini e condizioni per l'utilizzo del Generatore di Gruppi Casuali",
+      "keywords": "termini di utilizzo, condizioni, accordo, regole, disposizioni",
+      "ogTitle": "Termini di Utilizzo - Generatore di Gruppi Casuali",
+      "ogDescription": "Termini e condizioni per l'utilizzo dei nostri servizi",
+      "ogImageAlt": "Generatore di Gruppi Casuali Termini di Utilizzo"
+    },
+    "privacy": {
+      "title": "Informativa sulla Privacy - Generatore di Gruppi Casuali",
+      "description": "Come proteggiamo e utilizziamo i tuoi dati",
+      "keywords": "informativa sulla privacy, privacy, sicurezza, GDPR",
+      "ogTitle": "Informativa sulla Privacy - Generatore di Gruppi Casuali",
+      "ogDescription": "Scopri come proteggiamo i tuoi dati",
+      "ogImageAlt": "Generatore di Gruppi Casuali Informativa sulla Privacy"
+    }
+  },
+  "common": {
+    "nav": {
+      "home": "Home",
+      "about": "Chi Siamo",
+      "legal": "Legale",
+      "terms": "Termini",
+      "privacy": "Privacy"
+    },
+    "languageSwitcher": {
+      "label": "Seleziona lingua"
+    },
+    "alert": {
+      "close": "Chiudi",
+      "success": "Successo",
+      "error": "Errore",
+      "warning": "Avviso",
+      "info": "Informazione"
+    },
+    "siteName": "Generatore di Gruppi Casuali",
+    "authorName": "Team del Generatore di Gruppi Casuali",
+    "category": "Istruzione e Tecnologia",
+    "twitterCreator": "@randomgroup"
+  },
+  "groupGenerator": {
+    "input": {
+      "placeholder": "Inserisci la lista qui (un nome per riga)",
+      "generateButton": "Genera Gruppi",
+      "uploadButton": "Carica File",
+      "clearButton": "Cancella",
+      "regenerateButton": "Rigenera Gruppi",
+      "copyButton": "Copia negli Appunti",
+      "lineCount": "{count} righe"
+    },
+    "settings": {
+      "method": {
+        "label": "Metodo di raggruppamento",
+        "byCount": "Per numero di gruppi",
+        "bySize": "Per dimensione del gruppo"
+      },
+      "groupCount": {
+        "label": "Numero di gruppi",
+        "description": "Scegli il numero desiderato di gruppi"
+      },
+      "groupSize": {
+        "label": "Dimensione del gruppo",
+        "description": "Scegli il numero di persone per gruppo"
+      }
+    },
+    "results": {
+      "title": "Risultati",
+      "empty": "I risultati appariranno qui",
+      "group": "Gruppo {number}",
+      "members": "{count} membri",
+      "exportTxt": "Esporta TXT",
+      "exportCsv": "Esporta CSV"
+    },
+    "errors": {
+      "fileRead": "Errore durante la lettura del file. Si prega di riprovare.",
+      "emptyInput": "Si prega di inserire una lista di nomi.",
+      "tooManyGroups": "Il numero di gruppi non può superare il numero totale dei membri.",
+      "groupSizeTooLarge": "La dimensione del gruppo non può superare il numero totale dei membri.",
+      "invalidInput": "Input non valido. Si prega di verificare e riprovare.",
+      "duplicateItems": "Elementi duplicati trovati:",
+      "invalidFileType": "È possibile caricare solo file TXT."
+    }
+  },
+  "home": {
+    "title": "Generatore di Gruppi Casuali",
+    "description": "Crea gruppi casuali in pochi secondi",
+    "subtitle": "Il generatore di gruppi casuali più affidabile per insegnanti e leader di team. Usa il nostro strumento online gratuito per creare istantaneamente team bilanciati. Perfetto per classi, workshop e attività di team building - nessuna registrazione richiesta.",
+    "instructions": {
+      "title": "Come utilizzare il Generatore di Gruppi Casuali",
+      "subtitle": "Veloce, semplice ed efficace",
+      "step1": {
+        "title": "Inserisci la lista",
+        "description": "Incolla semplicemente la tua lista o carica un file. Il Generatore di Gruppi Casuali supporta formati TXT e CSV, ideali per team numerosi o elenchi di classe."
+      },
+      "step2": {
+        "title": "Imposta i parametri dei gruppi",
+        "description": "Scegli la dimensione desiderata del gruppo o specifica il numero di gruppi. Il nostro algoritmo intelligente garantisce una distribuzione casuale bilanciata ogni volta."
+      },
+      "step3": {
+        "title": "Genera e condividi",
+        "description": "Crea gruppi casuali istantaneamente ed esporta nel formato preferito. Condividi facilmente i risultati con il tuo team o studenti. Non soddisfatto del risultato? Genera nuovi gruppi con un solo clic."
+      }
+    },
+    "features": {
+      "title": "Funzionalità del Generatore di Gruppi Casuali",
+      "subtitle": "Affidabile da migliaia di utenti in tutto il mondo",
+      "education": {
+        "title": "Istruzione e Formazione",
+        "description": "Crea facilmente gruppi di studio e team di progetto bilanciati. Il Generatore di Gruppi Casuali è la prima scelta degli educatori per creare un ambiente di apprendimento collaborativo."
+      },
+      "professional": {
+        "title": "Team Professionali",
+        "description": "Semplifica la formazione dei team per workshop, corsi di formazione e compiti di progetto. Crea gruppi casuali che promuovono prospettive diverse e partecipazione equa."
+      },
+      "events": {
+        "title": "Eventi e Progetti",
+        "description": "Perfetto per organizzare attività di team building, eventi sportivi e incontri sociali. Il Generatore di Gruppi Casuali garantisce assegnazioni di team eque e imparziali."
+      },
+      "algorithm": {
+        "title": "Algoritmo di Distribuzione Equa",
+        "description": "Il nostro avanzato Generatore di Gruppi Casuali utilizza algoritmi complessi per garantire una distribuzione dei gruppi veramente casuale e bilanciata in ogni occasione."
+      }
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "subtitle": "Domande comuni sul Generatore di Gruppi Casuali",
+      "how": {
+        "title": "Come si usa questo strumento?",
+        "answer": "Basta inserire o incollare la tua lista, scegliere il numero desiderato di gruppi o persone per gruppo, e cliccare sul pulsante genera. È così semplice!"
+      },
+      "max": {
+        "title": "Quante persone supporta?",
+        "answer": "Il nostro strumento può gestire liste fino a 1000 persone, adatto per team e classi di qualsiasi dimensione."
+      },
+      "save": {
+        "title": "Posso salvare i risultati?",
+        "answer": "Sì, puoi esportare i risultati in vari formati, inclusi PDF, Excel e file di testo."
+      },
+      "data": {
+        "title": "I miei dati sono sicuri?",
+        "answer": "Apprezziamo la tua privacy. Tutto l'elaborazione avviene nel tuo browser e non memorizziamo alcuna informazione personale."
+      },
+      "balance": {
+        "title": "Come viene garantito il bilanciamento dei gruppi?",
+        "answer": "Utilizziamo algoritmi avanzati per garantire che le dimensioni dei gruppi siano il più possibile uguali, mantenendo la casualità."
+      },
+      "regenerate": {
+        "title": "Posso rigenerare i gruppi?",
+        "answer": "Certamente! Puoi cliccare sul pulsante genera in qualsiasi momento per creare nuovi gruppi casuali."
+      }
+    },
+    "benefits": {
+      "title": "Vantaggi del Generatore di Gruppi Casuali",
+      "list": "Risparmia tempo ed energia|Garantisce una distribuzione equa|Migliora l'efficienza del lavoro di squadra|Opzioni flessibili di modifica dei gruppi|Facile accesso e utilizzo|Supporto tecnico disponibile quando necessario"
+    },
+    "testimonials": {
+      "title": "Opinioni degli Utenti",
+      "subtitle": "Cosa dicono i nostri utenti del Generatore di Gruppi Casuali",
+      "items": {
+        "item1": {
+          "text": "Ottimo strumento, mi ha fatto risparmiare molto tempo nell'organizzazione dei gruppi in classe.",
+          "author": "Giovanni - Insegnante"
+        },
+        "item2": {
+          "text": "Facile da usare e molto efficace nell'organizzazione dei workshop.",
+          "author": "Elena - Formatrice"
+        },
+        "item3": {
+          "text": "Il miglior strumento gratuito per creare gruppi casuali bilanciati.",
+          "author": "Marco - Organizzatore Eventi"
+        }
+      }
+    }
+  },
+  "about": {
+    "title": "Chi Siamo",
+    "mission": {
+      "title": "La Nostra Missione",
+      "description": "Il Generatore di Gruppi Casuali è uno strumento user-friendly che aiuta educatori, leader di team e organizzatori di eventi a creare gruppi bilanciati in modo efficiente. La nostra missione è fornire una soluzione intuitiva, efficace ed equa per tutte le esigenze di formazione dei team."
+    },
+    "features": {
+      "title": "Caratteristiche Principali",
+      "list": {
+        "grouping": "Opzioni di raggruppamento flessibili - per numero di gruppi o dimensione del gruppo",
+        "interface": "Interfaccia intuitiva e facile da usare",
+        "algorithm": "Algoritmo di distribuzione equo e casuale",
+        "export": "Funzionalità di esportazione dei risultati",
+        "security": "Sicuro e privato - nessun dato memorizzato"
+      }
+    },
+    "contact": {
+      "title": "Contattaci",
+      "description": "Apprezziamo il tuo feedback e ci impegniamo a migliorare il nostro servizio. Se hai domande, suggerimenti o hai bisogno di assistenza, non esitare a contattarci."
+    }
+  },
+  "legal": {
+    "title": "Informazioni legali",
+    "content": "Informazioni legali importanti sui nostri servizi.",
+    "privacy": {
+      "title": "Informativa sulla Privacy",
+      "description": "Apprezziamo la tua privacy e ci impegniamo a proteggerla. Consulta la nostra informativa sulla privacy per saperne di più.",
+      "readMore": "Leggi l'informativa completa sulla privacy"
+    },
+    "terms": {
+      "title": "Termini di Utilizzo",
+      "description": "Utilizzando il nostro servizio, accetti i nostri termini. Ti preghiamo di leggere attentamente i termini di utilizzo dettagliati.",
+      "readMore": "Leggi i termini completi di utilizzo"
+    }
+  },
+  "terms": {
+    "title": "Termini di Utilizzo",
+    "lastUpdated": "Ultimo aggiornamento: {date}",
+    "sections": {
+      "agreement": {
+        "title": "Accettazione dei Termini",
+        "content": "Utilizzando il Generatore di Gruppi Casuali (randomgroup.org), accetti questi termini di utilizzo. Se non sei d'accordo con qualsiasi parte di questi termini, ti preghiamo di non utilizzare il nostro servizio."
+      },
+      "license": {
+        "title": "Licenza d'Uso",
+        "content": "Il Generatore di Gruppi Casuali concede una licenza personale, non esclusiva, non trasferibile e limitata per l'utilizzo dello strumento di generazione gruppi online per scopi personali o professionali. Questa licenza non include:",
+        "restrictions": "Modificare o copiare il nostro software|Ridistribuzione commerciale del servizio|Tentativo di decompilare o reverse engineer qualsiasi software sul sito|Rimozione di copyright o altre note di proprietà"
+      },
+      "disclaimer": {
+        "title": "Esclusione di Responsabilità",
+        "content": "Il servizio è fornito 'così com'è'. Il Generatore di Gruppi Casuali non fornisce alcuna garanzia, espressa o implicita, e con la presente esclude tutte le altre garanzie."
+      },
+      "limitations": {
+        "title": "Limitazioni",
+        "content": "Il Generatore di Gruppi Casuali non sarà responsabile per eventuali danni derivanti dall'utilizzo o dall'impossibilità di utilizzare il servizio."
+      },
+      "data": {
+        "title": "I Tuoi Dati",
+        "content": "Mantieni tutti i diritti sui dati che inserisci nel servizio. Non memorizziamo, elaboriamo o trasferiamo i tuoi dati su alcun server."
+      },
+      "modifications": {
+        "title": "Modifiche",
+        "content": "Il Generatore di Gruppi Casuali si riserva il diritto di modificare o sostituire questi termini di utilizzo in qualsiasi momento."
+      },
+      "contact": {
+        "title": "Contatti",
+        "content": "Per domande su questi termini di utilizzo, contattaci all'indirizzo support@randomgroup.org."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Informativa sulla Privacy",
+    "lastUpdated": "Ultimo aggiornamento: {date}",
+    "sections": {
+      "intro": {
+        "title": "Introduzione",
+        "content": "Nel Generatore di Gruppi Casuali, apprezziamo la tua privacy e ci impegniamo a proteggerla. Questa informativa sulla privacy spiega come gestiamo le informazioni durante l'utilizzo del nostro sito web e dei nostri servizi."
+      },
+      "noCollect": {
+        "title": "Non Raccogliamo Dati",
+        "content": "Crediamo nella privacy totale. Non raccogliamo né memorizziamo informazioni personali.",
+        "list": "Non memorizziamo nomi o liste|Non tracciamo gli utenti|Non raccogliamo dati personali|Tutto viene elaborato localmente nel tuo browser"
+      },
+      "howItWorks": {
+        "title": "Come Funziona",
+        "content": "Tutte le operazioni di generazione dei gruppi avvengono localmente nel tuo browser. Nessun dato viene inviato ai nostri server."
+      },
+      "technical": {
+        "title": "Dettagli Tecnici",
+        "content": "Utilizziamo tecnologie moderne per garantire sicurezza e privacy:",
+        "list": "Solo elaborazione lato client|Nessuna memorizzazione dati|Nessun cookie di tracciamento|Crittografia SSL/TLS per le comunicazioni"
+      },
+      "dataCollection": {
+        "title": "Raccolta Dati",
+        "content": "Non raccogliamo informazioni personali dai nostri utenti. Tutti i dati inseriti vengono elaborati localmente nel tuo browser.",
+        "details": "Non memorizziamo le liste inserite|Non tracciamo i modelli di utilizzo|Non raccogliamo dati identificativi|Tutto viene elaborato localmente"
+      },
+      "dataUse": {
+        "title": "Utilizzo dei Dati",
+        "content": "Non memorizziamo, condividiamo o vendiamo i tuoi dati. Tutte le informazioni inserite vengono elaborate temporaneamente solo per generare i gruppi.",
+        "purposes": "Generazione di gruppi casuali|Miglioramento dell'esperienza utente|Garanzia delle prestazioni del sito|Fornitura di supporto tecnico su richiesta"
+      },
+      "cookies": {
+        "title": "Cookie",
+        "content": "Utilizziamo solo i cookie essenziali per migliorare l'esperienza utente. Non utilizziamo cookie per il tracciamento o la pubblicità.",
+        "types": "Cookie di sessione: per memorizzare le preferenze durante la visita|Cookie di prestazione: per migliorare le prestazioni del sito|Cookie funzionali: per ricordare le preferenze come la lingua selezionata"
+      },
+      "security": {
+        "title": "Sicurezza",
+        "content": "Prendiamo sul serio la sicurezza dei tuoi dati. Tutte le operazioni avvengono localmente nel tuo browser, garantendo che i dati non vengano condivisi con server esterni.",
+        "measures": "Elaborazione locale dei dati|Nessuna memorizzazione di informazioni personali|Connessione sicura HTTPS|Crittografia dei dati durante il trasferimento"
+      },
+      "userRights": {
+        "title": "Diritti dell'Utente",
+        "content": "Poiché non raccogliamo dati personali, i tuoi dati sono naturalmente protetti. Tuttavia, hai il diritto di:",
+        "rights": "Sapere come utilizziamo i dati|Accedere all'informativa sulla privacy in qualsiasi momento|Contattarci per dubbi sulla privacy|Rifiutare i cookie non essenziali"
+      },
+      "changes": {
+        "title": "Modifiche all'Informativa sulla Privacy",
+        "content": "Potremmo aggiornare periodicamente questa informativa sulla privacy. Ti informeremo di eventuali modifiche pubblicando la nuova informativa su questa pagina."
+      },
+      "contact": {
+        "title": "Contatti",
+        "content": "Per domande sulla nostra informativa sulla privacy, contattaci all'indirizzo privacy@randomgroup.org.",
+        "methods": {
+          "item1": "Email: privacy@randomgroup.org",
+          "item2": "Modulo di contatto sul nostro sito",
+          "item3": "Indirizzo postale: [Indirizzo ufficio]"
+        }
+      },
+      "updates": {
+        "title": "Aggiornamenti dell'Informativa sulla Privacy",
+        "content": "Potremmo aggiornare periodicamente la nostra informativa sulla privacy. Ti informeremo delle modifiche pubblicando la nuova informativa su questa pagina."
+      }
+    }
+  }
+} 
