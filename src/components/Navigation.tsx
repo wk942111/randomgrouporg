@@ -20,10 +20,10 @@ export function Navigation() {
             <Link href="/legal" className="text-text-secondary hover:text-primary transition-colors">
               {t('nav.legal')}
             </Link>
-            <Link href="/terms" className="text-text-secondary hover:text-primary transition-colors">
+            <Link href="/legal/terms" className="text-text-secondary hover:text-primary transition-colors">
               {t('nav.terms')}
             </Link>
-            <Link href="/privacy" className="text-text-secondary hover:text-primary transition-colors">
+            <Link href="/legal/privacy" className="text-text-secondary hover:text-primary transition-colors">
               {t('nav.privacy')}
             </Link>
           </div>
