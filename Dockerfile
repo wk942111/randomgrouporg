@@ -3,17 +3,22 @@ FROM node:20-alpine AS builder
 
 WORKDIR /app
 
-# 设置环境变量
-ENV NODE_ENV=production
+# 设置npm镜像和环境变量
+RUN npm config set registry https://registry.npmmirror.com/
 ENV NEXT_TELEMETRY_DISABLED=1
 
-# 设置npm镜像
-RUN npm config set registry https://registry.npmmirror.com/
-
-# 复制项目文件
+# 首先复制配置文件
 COPY package*.json ./
-RUN npm install
+COPY postcss.config.js ./
+COPY tailwind.config.js ./
+COPY tsconfig.json ./
+COPY next.config.js ./
 
+# 清理 npm 缓存并安装依赖
+RUN npm cache clean --force && \
+    npm install --production=false
+
+# 复制源代码
 COPY . .
 
 # 构建应用
@@ -35,7 +40,7 @@ RUN apk add --no-cache tzdata
 RUN addgroup --system --gid 1001 nodejs && \
     adduser --system --uid 1001 nextjs
 
-# 复制构建产物
+# 复制构建产物和必要文件
 COPY --from=builder /app/public ./public
 COPY --from=builder /app/.next/standalone ./
 COPY --from=builder /app/.next/static ./.next/static

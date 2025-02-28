@@ -1,31 +1,23 @@
 import createMiddleware from 'next-intl/middleware';
 import { locales } from './i18n/locales';
-import { NextRequest, NextResponse } from 'next/server';
 
+// 创建中间件配置
 const intlMiddleware = createMiddleware({
+  // 配置所有支持的语言
   locales: Object.keys(locales),
   defaultLocale: 'en',
   localePrefix: 'as-needed',
   localeDetection: false
 });
 
-export async function middleware(request: NextRequest) {
-  // 先处理国际化
-  const response = await intlMiddleware(request);
-  
-  // 如果有重定向,直接返回
-  if(response.status !== 200) {
-    return response;
-  }
-  
-  // 添加原始路径到 header
-  const originalPathname = request.nextUrl.pathname;
-  response.headers.set('x-original-pathname', originalPathname);
-  
-  return response;
-}
+export default intlMiddleware;
 
-// 匹配所有公共路由，但排除特定路径
+// 匹配所有路由
 export const config = {
-  matcher: ['/((?!api|_next|.*\\..*).*)']
+  matcher: [
+    // 匹配所有非静态/API路由
+    '/((?!api|_next|_vercel|.*\\..*).*)',
+    // 匹配带有语言前缀的路由
+    '/(zh|zh-Hant|ko|ja|pt|es|de|fr|vi|ar|hu|nl|pl|it|sv|th)/:path*'
+  ]
 }; 
