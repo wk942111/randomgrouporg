@@ -36,6 +36,17 @@ services:
     networks:
       - app_network
 
+    labels:
+      - "traefik.enable=true"
+
+      # 路由到此容器
+      - "traefik.http.routers.randomgroup.rule=Host(`randomgroup.org`)"
+      - "traefik.http.routers.randomgroup.entrypoints=websecure"
+      - "traefik.http.routers.randomgroup.tls.certresolver=letsencrypt"
+
+      # 指定服务的内部端口
+      - "traefik.http.services.randomgroup.loadbalancer.server.port=3000"
+
 networks:
   app_network:
-    driver: bridge 
+    driver: bridge
