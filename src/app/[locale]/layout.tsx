@@ -122,6 +122,13 @@ export default async function LocaleLayout({ children, params: { locale } }: Pro
             <Footer />
           </div>
         </NextIntlClientProvider>
+        {process.env.NODE_ENV === 'production' && (
+          <>
+            {/* 在生产环境中输出调试信息到控制台 */}
+            <script defer data-domain="randomgroup.org" src="http://tj.xuantiku.top/js/script.hash.outbound-links.js"></script>
+            
+          </>
+        )}
       </body>
     </html>
   );
